@@ -1,0 +1,184 @@
+{
+ "civicapi_race": "https://civicapi.org/api/v2/race/87130",
+ "civicapi_last_updated_utc": "2026-11-19T23:30:10.834Z",
+ "civicapi_percent_reporting": 90.9,
+ "counties_compared": 60,
+ "exact_D_R_match": 43,
+ "differ": 17,
+ "max_abs_diff_D": 5112,
+ "max_abs_diff_R": 1458,
+ "largest": [
+  {
+   "county": "WILL",
+   "civicapi_D": 137102,
+   "civicapi_R": 90645,
+   "used_D": 131990,
+   "used_R": 89187,
+   "civicapi_pct_reporting": 91.5,
+   "diff_D": -5112,
+   "diff_R": -1458
+  },
+  {
+   "county": "COOK",
+   "civicapi_D": 1249535,
+   "civicapi_R": 274852,
+   "used_D": 1244743,
+   "used_R": 274181,
+   "civicapi_pct_reporting": 90,
+   "diff_D": -4792,
+   "diff_R": -671
+  },
+  {
+   "county": "LAKE",
+   "civicapi_D": 155317,
+   "civicapi_R": 68790,
+   "used_D": 152998,
+   "used_R": 68149,
+   "civicapi_pct_reporting": 91.9,
+   "diff_D": -2319,
+   "diff_R": -641
+  },
+  {
+   "county": "MCHENRY",
+   "civicapi_D": 62733,
+   "civicapi_R": 49076,
+   "used_D": 60953,
+   "used_R": 48338,
+   "civicapi_pct_reporting": 93.1,
+   "diff_D": -1780,
+   "diff_R": -738
+  },
+  {
+   "county": "PEORIA",
+   "civicapi_D": 32784,
+   "civicapi_R": 25036,
+   "used_D": 33639,
+   "used_R": 25431,
+   "civicapi_pct_reporting": 91.5,
+   "diff_D": 855,
+   "diff_R": 395
+  },
+  {
+   "county": "DUPAGE",
+   "civicapi_D": 214238,
+   "civicapi_R": 111152,
+   "used_D": 213617,
+   "used_R": 111004,
+   "civicapi_pct_reporting": 92.4,
+   "diff_D": -621,
+   "diff_R": -148
+  },
+  {
+   "county": "WINNEBAGO",
+   "civicapi_D": 48227,
+   "civicapi_R": 38307,
+   "used_D": 48055,
+   "used_R": 38127,
+   "civicapi_pct_reporting": 91.2,
+   "diff_D": -172,
+   "diff_R": -180
+  },
+  {
+   "county": "MCLEAN",
+   "civicapi_D": 36993,
+   "civicapi_R": 27344,
+   "used_D": 37242,
+   "used_R": 27427,
+   "civicapi_pct_reporting": 94.2,
+   "diff_D": 249,
+   "diff_R": 83
+  }
+ ],
+ "voteclock_vs_feed": [
+  {
+   "county": "BOONE",
+   "kind": "voteclock snapshot vs county vendor feed (used)",
+   "voteclock": [
+    8071,
+    9022,
+    17830
+   ],
+   "used": [
+    8165,
+    9051,
+    17962
+   ],
+   "voteclock_as_of": "Tuesday, November 3, 2026, 9:24 p.m.",
+   "diff_D": 94,
+   "diff_R": 29,
+   "diff_ballots": 132
+  },
+  {
+   "county": "DEKALB",
+   "kind": "voteclock snapshot vs county vendor feed (used)",
+   "voteclock": [
+    19905,
+    14868,
+    36449
+   ],
+   "used": [
+    19971,
+    14888,
+    36547
+   ],
+   "voteclock_as_of": "when read on the night of Sunday, November 15, 2026",
+   "diff_D": 66,
+   "diff_R": 20,
+   "diff_ballots": 98
+  },
+  {
+   "county": "MACON",
+   "kind": "voteclock snapshot vs county vendor feed (used)",
+   "voteclock": [
+    14025,
+    18459,
+    33837
+   ],
+   "used": [
+    14098,
+    18510,
+    33974
+   ],
+   "voteclock_as_of": "When read on the night of Sunday, November 15, 2026",
+   "diff_D": 73,
+   "diff_R": 51,
+   "diff_ballots": 137
+  },
+  {
+   "county": "TAZEWELL",
+   "kind": "voteclock snapshot vs county vendor feed (used)",
+   "voteclock": [
+    18665,
+    30200,
+    51109
+   ],
+   "used": [
+    18882,
+    30310,
+    51456
+   ],
+   "voteclock_as_of": "When read on the night of Sunday, November 15, 2026",
+   "diff_D": 217,
+   "diff_R": 110,
+   "diff_ballots": 347
+  },
+  {
+   "county": "WHITESIDE",
+   "kind": "voteclock snapshot vs county vendor feed (used)",
+   "voteclock": [
+    8176,
+    10374,
+    19434
+   ],
+   "used": [
+    8210,
+    10397,
+    19498
+   ],
+   "voteclock_as_of": "Tuesday, November 3, 2026, 9:22 p.m.",
+   "diff_D": 34,
+   "diff_R": 23,
+   "diff_ballots": 64
+  }
+ ]
+}

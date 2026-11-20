@@ -1,0 +1,44 @@
+{
+ "stand_in_primary_ballots": {
+  "file_a": "proxy_primary_pass_a.csv",
+  "file_b": "pass_b_proxy.csv",
+  "rows": 102,
+  "cells": 918,
+  "matched": 918,
+  "mismatches": []
+ },
+ "raw_2026_UNOFFICIAL": {
+  "file_a": "pass_a_2026_raw.csv",
+  "file_b": "pass_b_2026_raw.csv",
+  "rows": 60,
+  "cells": 300,
+  "matched": 300,
+  "mismatches": []
+ },
+ "computed_table": {
+  "file_a": "compute_pass_a.csv",
+  "file_b": "compute_pass_b.csv",
+  "rows": 102,
+  "cells": 2040,
+  "matched": 2040,
+  "mismatches": []
+ },
+ "summary": {
+  "fields": 15,
+  "matched": 15,
+  "mismatches": []
+ },
+ "verification_2022": {
+  "counties": 102,
+  "columns_compared": 11,
+  "cells_compared": 1122,
+  "matched": 1122,
+  "mismatched": 0,
+  "pdf_gov_table_counties": 102,
+  "pdf_cells_matched": 204,
+  "pdf_cells_mismatched": 0,
+  "mismatches": [],
+  "ship": true
+ },
+ "ship": true
+}

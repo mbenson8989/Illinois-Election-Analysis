@@ -1,0 +1,12 @@
+{
+ "counties": 102,
+ "columns_compared": 11,
+ "cells_compared": 1122,
+ "matched": 1122,
+ "mismatched": 0,
+ "pdf_gov_table_counties": 102,
+ "pdf_cells_matched": 204,
+ "pdf_cells_mismatched": 0,
+ "mismatches": [],
+ "ship": true
+}

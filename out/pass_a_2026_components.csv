@@ -1,0 +1,65 @@
+county_key,authority,source_type,url,dem,rep,ballots,as_of
+ADAMS,Adams County Clerk,voteclock,https://voteclock.org/adams-county-il-election-authority-2026,5663,18191,24600,"Tuesday, November 17, 2026, 2:07 p.m."
+BOND,Bond County Clerk,pollresults,https://il-bond.pollresults.net/Home/ElectionData,1599,4409,6297,2026-11-03T20:50:23.247 local; banner UNOFFICIAL
+BOONE,Boone County Clerk,pollresults,https://il-boone.pollresults.net/Home/ElectionData,8165,9051,17962,2026-11-19T14:57:31.757 local; banner FINAL RESULTS
+BUREAU,Bureau County Clerk,pollresults,https://il-bureau.pollresults.net/Home/ElectionData,4352,7343,12195,2026-11-03T21:06:23.13 local; banner UNOFFICIAL
+CARROLL,Carroll County Clerk,pollresults,https://il-carroll.pollresults.net/Home/ElectionData,1877,4037,6205,2026-11-19T10:39:48.267 local; banner FINAL
+CHAMPAIGN,Champaign County Clerk,voteclock,https://voteclock.org/champaign-county-il-election-authority-2026,44430,22282,69919,"Wednesday, November 4, 2026, 12:21 a.m."
+CHRISTIAN,Christian County Clerk,pollresults,https://il-christian.pollresults.net/Home/ElectionData,3106,8249,11808,2026-11-18T14:37:13.747 local; banner FINAL
+CLARK,Clark County Clerk,pollresults,https://il-clark.pollresults.net/Home/ElectionData,1333,4856,6378,2026-11-03T20:36:19.44 local; banner UNOFFICIAL
+CLINTON,Clinton County Clerk,platinum,https://www.platinumelectionresults.com/turnouts/county/10 + /races/10/2,3153,11061,14671,page fetch time (platinum shows no timestamp)
+COLES,Coles County Clerk,pollresults,https://il-coles.pollresults.net/Home/ElectionData,5958,10337,16885,2026-11-03T21:49:15.937 local; banner UNOFFICIAL
+COOK,Cook County Clerk (suburban Cook),voteclock,https://voteclock.org/cook-county-il-election-authority-2026,567916,186997,786370,"Thursday, November 12, 2026, 10:14 a.m."
+COOK,Chicago Board of Election Commissioners,chicago_pdf,https://results.chicagoelections.gov/results/Summary%20Report%20(2%20Column).pdf,676827,87184,793400,"CHI 20261103 Ver D, ""Summary Report - Unofficial Results"""
+DEKALB,DeKalb County Clerk,platinum,https://www.platinumelectionresults.com/turnouts/county/66 + /races/66/2,19971,14888,36547,page fetch time (platinum shows no timestamp)
+DEWITT,DeWitt County Clerk,pollresults,https://il-dewitt.pollresults.net/Home/ElectionData,1634,4109,5970,2026-11-19T05:09:25.5 local; banner FINAL
+DUPAGE,DuPage County Clerk,voteclock,https://voteclock.org/dupage-county-il-election-authority-2026,213617,111004,342060,"Friday, November 6, 2026, 2:23 p.m. Unofficial results can change until they are certified. Source: DuPage County Clerk Election Division, 2026 general election results . Turnout: 342,060 ballots cast of 634,871 registered voters"
+EDGAR,Edgar County Clerk,pollresults,https://il-edgar.pollresults.net/Home/ElectionData,1314,4311,5854,2026-11-03T20:55:55.873 local; banner UNOFFICIAL
+FAYETTE,WMIX radio transcription of Fayette County Clerk results,radio_wmix,https://www.wmix94.com/fayette/,1164,6450,7774,"WMIX page, ""Unofficial"", Nov 3 2026"
+FORD,Ford County Clerk,pollresults,https://il-ford.pollresults.net/Home/ElectionData,1217,3480,4872,2026-11-03T23:06:14.377 local; banner UNOFFICIAL
+FRANKLIN,Franklin County Clerk,platinum,https://www.platinumelectionresults.com/turnouts/county/21 + /races/21/2,2913,9746,13157,page fetch time (platinum shows no timestamp)
+FULTON,Fulton County Clerk,cumpdf,https://fultoncountyilelections.gov/wp-content/uploads/2026/11/Cumulative-Results-11-16-2026-10-14-06-AM.pdf,4422,7119,12163,"run 11/17/2026 10:33 AM; header ""Official Results"""
+GALLATIN,WEBQ radio transcription of Gallatin County Clerk results,radio_webq_a,https://www.webqradio.com/gallatin/,402,1562,2088,"WEBQ page, ""Unofficial Results"", Nov 3 2026"
+GRUNDY,Grundy County Clerk,voteclock,https://voteclock.org/grundy-county-il-election-authority-2026,7191,10622,18671,"Wednesday, November 18, 2026, 10:22 a.m."
+HAMILTON,WEBQ radio transcription of Hamilton County Clerk report,radio_webq_b,https://www.webqradio.com/hamilton/,532,2728,3379,"WEBQ page, report printed Nov 3 2026 9:02 p.m., unofficial"
+HENRY,Henry County Clerk,platinum,https://www.platinumelectionresults.com/turnouts/county/76 + /races/76/2,7164,11492,19508,page fetch time (platinum shows no timestamp)
+JACKSON,Jackson County Clerk,cumpdf,https://www.jacksoncounty-il.gov/DocumentCenter/View/1228/Nov3_2026Results?bidId=,9387,7930,18047,"run 11/03/2026 10:05 PM; header ""Unofficial Results"""
+JASPER,Jasper County Clerk,cumpdf,https://jaspercountyillinois.gov/wp-content/uploads/2026/11/Cumulative-Results-11-3-2026-08-18-19-PM.pdf,606,3878,4639,"run 11/03/2026 8:17 PM; header ""Unofficial Results"""
+JERSEY,Jersey County Clerk,el45,https://www.jerseycountyclerk-il.com/wp-content/2026-elections/26GILJER/EL45.HTM,2138,6315,8821,run 11/17/26 02:54 PM; UNOFFICIAL RESULTS
+KANE,Kane County Clerk,voteclock,https://voteclock.org/kane-county-il-election-authority-2026,104552,58006,170356,"Thursday, November 5, 2026, 4 p.m."
+KENDALL,Kendall County Clerk,voteclock,https://voteclock.org/kendall-county-il-election-authority-2026,28148,19106,49422,"Tuesday, November 3, 2026, 11:39 p.m."
+LAKE,Lake County Clerk,voteclock,https://voteclock.org/lake-county-il-election-authority-2026,152998,68149,231342,"Thursday, November 12, 2026, 2:25 p.m."
+LASALLE,LaSalle County Clerk,voteclock,https://voteclock.org/lasalle-county-il-election-authority-2026,16556,20198,38577,"Tuesday, November 3, 2026, 10:50 p.m."
+LEE,Lee County Clerk,pollresults,https://il-lee.pollresults.net/Home/ElectionData,4649,7041,12270,2026-11-03T20:34:58.527 local; banner UNOFFICIAL
+LIVINGSTON,Livingston County Clerk,pollresults,https://il-livingston.pollresults.net/Home/ElectionData,3257,8918,12602,2026-11-19T11:12:13.367 local; banner UNOFFICIAL
+LOGAN,Logan County Clerk,pollresults,https://il-logan.pollresults.net/Home/ElectionData,2653,6589,9665,2026-11-18T16:12:23.97 local; banner FINAL
+MACON,Macon County Clerk,pollresults,https://il-macon.pollresults.net/Home/ElectionData,14098,18510,33974,2026-11-18T10:32:15.11 local; banner FINAL
+MACOUPIN,Macoupin County Clerk,clarity,https://results.enr.clarityelections.com/IL/Macoupin/127399/384594/json/sum.json,5216,11701,17599,Clarity ENR current version at fetch
+MADISON,Madison County Clerk,voteclock,https://voteclock.org/madison-county-il-election-authority-2026,45518,49604,99363,"Thursday, November 5, 2026, 4:41 p.m."
+MARION,Marion County Clerk,platinum,https://www.platinumelectionresults.com/turnouts/county/18 + /races/18/2,2974,10057,13462,page fetch time (platinum shows no timestamp)
+MASON,Mason County Clerk,pollresults,https://il-mason.pollresults.net/Home/ElectionData,1372,3333,4931,2026-11-13T13:28:43.82 local; banner UNOFFICIAL
+MCHENRY,McHenry County Clerk,voteclock,https://voteclock.org/mchenry-county-il-election-authority-2026,60953,48338,115305,"Tuesday, November 3, 2026, 10:30 p.m."
+MCLEAN,McLean County Clerk (outside Bloomington),voteclock,https://voteclock.org/mclean-county-il-election-authority-2026,19253,17136,38005,"Tuesday, November 3, 2026, 10:30 p.m."
+MCLEAN,City of Bloomington Board of Election Commissioners,clarity,https://results.enr.clarityelections.com/IL/Bloomington/127392/387136/json/sum.json,17989,10291,29464,Clarity ENR current version at fetch
+MOULTRIE,Moultrie County Clerk,pollresults,https://il-moultrie.pollresults.net/Home/ElectionData,1189,3707,5065,2026-11-18T14:35:08.703 local; banner UNOFFICIAL
+OGLE,Ogle County Clerk,pollresults,https://il-ogle.pollresults.net/Home/ElectionData,6895,11874,19641,2026-11-03T21:48:49.993 local; banner UNOFFICIAL
+PEORIA,Peoria County Election Commission,voteclock,https://voteclock.org/peoria-county-il-election-authority-2026,33639,25431,61789,"Thursday, November 12, 2026, 5:26 p.m."
+PIATT,Piatt County Clerk,pollresults,https://il-piatt.pollresults.net/Home/ElectionData,2630,4513,7485,2026-11-17T18:47:08.2 local; banner UNOFFICIAL
+PIKE,Pike County Clerk,platinum,https://www.platinumelectionresults.com/turnouts/county/103 + /races/103/2,920,4754,5881,page fetch time (platinum shows no timestamp)
+PUTNAM,Putnam County Clerk,pollresults,https://il-putnam.pollresults.net/Home/ElectionData,970,1384,2482,2026-11-03T21:00:09.06 local; banner UNOFFICIAL
+RANDOLPH,Randolph County Clerk,platinum,https://www.platinumelectionresults.com/turnouts/county/13 + /races/13/2,2542,7836,10749,page fetch time (platinum shows no timestamp)
+RICHLAND,Richland County Clerk,cumpdf,https://richlandcounty.illinois.gov/wp-content/uploads/2026/11/CUMULATIVE-RESULTS-11-3-2026-09-19-55-PM.pdf,1268,4372,5859,"run 11/03/2026 9:18 PM; header ""Unofficial Results"""
+ROCKISLAND,Rock Island County Clerk,voteclock,https://voteclock.org/rock-island-county-il-election-authority-2026,28378,17608,48250,Turnout
+SANGAMON,Sangamon County Clerk,voteclock,https://voteclock.org/sangamon-county-il-election-authority-2026,39597,36429,79457,"Tuesday, November 3, 2026, 10:20 p.m."
+SHELBY,Shelby County Clerk,pollresults,https://il-shelby.pollresults.net/Home/ElectionData,1653,7403,9317,2026-11-18T14:28:28.5 local; banner FINAL
+STCLAIR,St. Clair County Clerk (outside East St. Louis),voteclock,https://voteclock.org/st-clair-county-il-election-authority-2026,46890,36937,87834,"when read on Saturday, November 14, 2026"
+STCLAIR,East St. Louis Board of Election Commissioners,platinum,https://stclair.platinumelectionresults.com/turnouts/county/48 + /races/48/2,4687,126,4938,page fetch time (platinum shows no timestamp)
+STEPHENSON,Stephenson County Clerk,pollresults,https://il-stephenson.pollresults.net/Home/ElectionData,6199,9048,16000,2026-11-19T10:27:41.427 local; banner OFFICIAL
+TAZEWELL,Tazewell County Clerk,pollresults,https://il-tazewell.pollresults.net/Home/ElectionData,18882,30310,51456,2026-11-17T13:13:36.727 local; banner FINAL
+WAYNE,Wayne County Clerk,platinum,https://www.platinumelectionresults.com/turnouts/county/14 + /races/14/2,792,5675,6638,page fetch time (platinum shows no timestamp)
+WHITESIDE,Whiteside County Clerk,pollresults,https://il-whiteside.pollresults.net/Home/ElectionData,8210,10397,19498,2026-11-19T12:30:21.75 local; banner FINAL
+WILL,Will County Clerk,voteclock,https://voteclock.org/will-county-il-election-authority-2026,131990,89187,231160,"Tuesday, November 3, 2026, 9:41 p.m."
+WILLIAMSON,Williamson County Clerk,voteclock,https://voteclock.org/williamson-county-il-election-authority-2026,7131,16315,24345,"Tuesday, November 3, 2026, 9:26 p.m."
+WINNEBAGO,Winnebago County Clerk (outside Rockford),voteclock,https://voteclock.org/winnebago-county-il-election-authority-2026,22889,26214,51680,"Thursday, November 12, 2026, 9:17 a.m."
+WINNEBAGO,City of Rockford Board of Election Commissioners,clarity,https://results.enr.clarityelections.com/WRC/Rockford/127559/387148/json/sum.json,25166,11913,38904,Clarity ENR current version at fetch
+WOODFORD,Woodford County Clerk,el45,https://www.woodfordcountyelections.com/results.html,4461,11421,16366,run 11/18/26 11:24 AM; UNOFFICIAL RESULTS

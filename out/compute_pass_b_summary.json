@@ -1,0 +1,29 @@
+{
+ "n_fit": 60,
+ "constant": "0.000194",
+ "multiplier": "-0.205049",
+ "r_squared": "0.432249",
+ "total_implied_extra_votes": "95592.15",
+ "sum_positive_implied": "102315.77",
+ "sum_negative_implied": "-6723.62",
+ "floor_2022": [
+  "Wayne",
+  "0.093777"
+ ],
+ "ceiling_2022": [
+  "Cook",
+  "0.730412"
+ ],
+ "floor_2026_UNOFFICIAL": [
+  "Wayne",
+  "0.119313"
+ ],
+ "ceiling_2026_UNOFFICIAL": [
+  "Cook",
+  "0.787927"
+ ],
+ "over_ballot_2022": [],
+ "over_ballot_2026": [],
+ "mean_standin_drop": "-0.112464",
+ "mean_share_change": "0.023255"
+}
