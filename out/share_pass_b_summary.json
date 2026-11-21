@@ -1,0 +1,51 @@
+{
+ "published": {
+  "m": "-0.205049",
+  "b": "0.000194",
+  "form": "share change = b + m x stand-in drop (fractions), R2 0.432249, n=60"
+ },
+ "fits": {
+  "A_2022_official": {
+   "n": 102,
+   "m": "-24.769946",
+   "b": "12.831550",
+   "r_squared": "0.238576",
+   "mean_abs_residual_pp": "4.756273",
+   "max_residual_county": "Gallatin",
+   "max_residual_pp": "-27.073738",
+   "published_applied_mean_abs_residual_pp": "8.848246",
+   "published_applied_max_residual_county": "Alexander",
+   "published_applied_max_residual_pp": "-25.672993",
+   "mean_S_pp": "7.124250",
+   "mean_D_pct": "23.041226"
+  },
+  "B_2026_UNOFFICIAL": {
+   "n": 60,
+   "m": "-22.853488",
+   "b": "7.438014",
+   "r_squared": "0.572823",
+   "mean_abs_residual_pp": "3.135417",
+   "max_residual_county": "Putnam",
+   "max_residual_pp": "-9.948661",
+   "published_applied_mean_abs_residual_pp": "4.804988",
+   "published_applied_max_residual_county": "Putnam",
+   "published_applied_max_residual_pp": "-14.721303",
+   "mean_S_pp": "-1.175386",
+   "mean_D_pct": "37.689650"
+  },
+  "C_deltaG_vs_drop_2026_UNOFFICIAL": {
+   "n": 60,
+   "m": "79.495147",
+   "b": "0.019407",
+   "r_squared": "0.919634",
+   "mean_abs_residual_pp": "1.745059",
+   "max_residual_county": "Gallatin",
+   "max_residual_pp": "4.595843",
+   "published_applied_mean_abs_residual_pp": "9.950009",
+   "published_applied_max_residual_county": "Gallatin",
+   "published_applied_max_residual_pp": "23.054131",
+   "mean_S_pp": "-8.920969",
+   "mean_D_pct": "-11.246443"
+  }
+ }
+}

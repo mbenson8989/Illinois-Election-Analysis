@@ -1,0 +1,17 @@
+{
+ "table_cells": 1836,
+ "table_matched": 1836,
+ "table_mismatches": [],
+ "summary_fields": 36,
+ "summary_matched": 36,
+ "summary_mismatches": [],
+ "gap_consistency_S2022_eq_100xgap": [
+  102,
+  102
+ ],
+ "residual_consistency_resC_eq_100xpublished_residual": [
+  60,
+  60
+ ],
+ "ship": true
+}

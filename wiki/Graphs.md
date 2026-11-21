@@ -15,5 +15,8 @@
 ## Stand-in vs Dem share (gap) — 2026 UNOFFICIAL (pre-Dec 4, 2026 canvass)
 ![Stand-in vs Dem share (gap) — 2026 UNOFFICIAL (pre-Dec 4, 2026 canvass)](https://raw.githubusercontent.com/mbenson8989/Illinois-Election-Analysis/main/charts/il_gap_standin_vs_dem_share_UNOFFICIAL.png)
 
+## Share-form fits S = m x (D/100) + b (A 2022 official; B, C 2026) — 2026 UNOFFICIAL (pre-Dec 4, 2026 canvass)
+![Share-form fits S = m x (D/100) + b (A 2022 official; B, C 2026) — 2026 UNOFFICIAL (pre-Dec 4, 2026 canvass)](https://raw.githubusercontent.com/mbenson8989/Illinois-Election-Analysis/main/charts/il_share_form_fits_UNOFFICIAL.png)
+
 ---
-Registration stand-in: Democratic primary ballot share - NOT official party registration; Illinois has no party registration. 2026 = UNOFFICIAL (pre-Dec 4, 2026 canvass). Cross-link: [Cedar Audit (Nebraska)](https://github.com/mbenson8989/Nebraska-Election-Analysis-/wiki/Cedar-Audit) · [PDF report](https://github.com/mbenson8989/Illinois-Election-Analysis/blob/main/report/Illinois_Reverse_Factoring_Report_UNOFFICIAL_2026.pdf) · Built Thursday, November 19, 2026 (CST).
+Registration stand-in: Democratic primary ballot share - NOT official party registration; Illinois has no party registration. 2026 = UNOFFICIAL (pre-Dec 4, 2026 canvass). Cross-link: [Cedar Audit (Nebraska)](https://github.com/mbenson8989/Nebraska-Election-Analysis-/wiki/Cedar-Audit) · [PDF report](https://github.com/mbenson8989/Illinois-Election-Analysis/blob/main/report/Illinois_Reverse_Factoring_Report_UNOFFICIAL_2026.pdf) · Built Thursday, November 19, 2026; share-form check added Friday, November 20, 2026 (CST).

@@ -9,11 +9,30 @@ CEDAR='https://github.com/mbenson8989/Nebraska-Election-Analysis-/wiki/Cedar-Aud
 REPO='https://github.com/mbenson8989/Illinois-Election-Analysis'
 RAW='https://raw.githubusercontent.com/mbenson8989/Illinois-Election-Analysis/main/'
 PDF=REPO+'/blob/main/report/Illinois_Reverse_Factoring_Report_UNOFFICIAL_2026.pdf'
-RUN='Thursday, November 19, 2026 (CST)'
+RUN='Thursday, November 19, 2026; share-form check added Friday, November 20, 2026 (CST)'
 T=list(csv.DictReader(open(O+'il_governor_reverse_math_2022_2026_VERIFIED.csv')))
 S=json.load(open(O+'compute_pass_a_summary.json')); V=json.load(open(O+'verification_full.json')); X=json.load(open(O+'il_2026_disagreements_UNOFFICIAL.json'))
 G22={r['county_key']:r for r in csv.DictReader(open(O+'pass_a_2022.csv'))}
 fit=[r for r in T if r['ballots_cast_2026_UNOFFICIAL']]; exc=[r for r in T if not r['ballots_cast_2026_UNOFFICIAL']]
+
+SA=json.load(open(O+'share_pass_a_summary.json'))['fits']; SV=json.load(open(O+'verification_share_form.json'))
+def frow(lbl,f): return f"| {lbl} | {f['n']} | {f['m']} | {f['b']} | {f['r_squared']} | {f['mean_abs_residual_pp']} | {f['max_residual_county']} ({f['max_residual_pp']}) | {f['published_applied_mean_abs_residual_pp']} |"
+SF=f"""## Share-form check: S = m × (D/100) + b (added Nov 20, 2026, CST)
+- **D** = registration stand-in share in percent (Democratic primary ballot share × 100). *{ST}.*
+- **S** = surplus in percentage points = 100 × (Dem share of ballots cast − stand-in share) = 100 × gap.
+- **Result of the check:** the published change-vs-drop fit above (constant 0.000194, multiplier −0.205049) is in a different form and different units. Applied literally as S = −0.205049 × (D/100) + 0.000194, it does **not** match the data: mean absolute residual {SA['A_2022_official']['published_applied_mean_abs_residual_pp']} pp across all 102 counties in 2022. So the share-form lines below were fitted by OLS from the raw verified data. The change-vs-drop fit above is unchanged and remains the locked formula.
+- **Fit C is the published fit, re-expressed.** In share form, delta-G (pp) = {SA['C_deltaG_vs_drop_2026_UNOFFICIAL']['m']} × (drop/100) + {SA['C_deltaG_vs_drop_2026_UNOFFICIAL']['b']}. That is exactly 100 × (1 − 0.205049) and 100 × 0.000194, because delta-G = share change + stand-in drop. Its residuals equal 100 × the published residuals in all {SV['residual_consistency_resC_eq_100xpublished_residual'][1]} counties.
+
+| Fit | n | m | b | R² | Mean abs residual (pp) | Largest residual: county (pp) | Mean abs residual if published m, b applied literally (pp) |
+|---|---|---|---|---|---|---|---|
+{frow('A: 2022, official, all 102 counties (primary share-form fit)',SA['A_2022_official'])}
+{frow(f'B: 2026 {UN}, 60 counties',SA['B_2026_UNOFFICIAL'])}
+{frow(f'C: delta-G vs stand-in drop, 2026 {UN}, 60 counties',SA['C_deltaG_vs_drop_2026_UNOFFICIAL'])}
+
+- **Fit A is the primary share-form line** because it is the only one that covers all 102 counties with official data. 2026 cannot cover all 102 counties until the remaining counties report (42 lack a county-authority ballots-cast figure). **No gaps were filled.**
+- Per-county S, D, predictions and residuals: [`out/share_pass_a.csv`]({REPO}/blob/main/out/share_pass_a.csv). Chart: [[Graphs]].
+- Verification of the share form (Pass A exact fractions vs Pass B numpy): {SV['table_matched']:,} / {SV['table_cells']:,} table cells and {SV['summary_matched']} / {SV['summary_fields']} fit statistics matched, 0 mismatches. S(2022) = 100 × published gap in {SV['gap_consistency_S2022_eq_100xgap'][0]} / {SV['gap_consistency_S2022_eq_100xgap'][1]} counties.
+"""
 v22=V['verification_2022']
 def pct(s): return f"{float(s)*100:.2f}%" if s else '—'
 def n(s): return f"{int(s):,}" if s else '—'
@@ -139,6 +158,7 @@ L=f"""# Locked Illinois Formula
 - The constant and multiplier are identical to 6 decimals in Pass A (exact rational arithmetic) and Pass B (numpy float64 polyfit).
 - The fit will change once the Dec 4, 2026 canvass is certified and the {len(exc)} excluded counties are added.
 
+{SF}
 {EVAL}
 ## Verification
 {VER}
@@ -199,7 +219,7 @@ Floor = most Republican baseline (lowest Dem share of ballots cast). Ceiling = h
 The registration stand-in is not used in the over-ballot check. *{ST}.*
 {foot()}"""
 CH=[('il_fit_share_change_vs_standin_drop_UNOFFICIAL.png','Share change vs stand-in drop with the fitted line'),('il_implied_extra_votes_UNOFFICIAL.png','Implied extra votes by county'),
-    ('il_dem_share_2022_vs_2026_UNOFFICIAL.png','Dem share of ballots cast, 2022 vs 2026'),('il_gap_standin_vs_dem_share_UNOFFICIAL.png','Stand-in vs Dem share (gap)')]
+    ('il_dem_share_2022_vs_2026_UNOFFICIAL.png','Dem share of ballots cast, 2022 vs 2026'),('il_gap_standin_vs_dem_share_UNOFFICIAL.png','Stand-in vs Dem share (gap)'),('il_share_form_fits_UNOFFICIAL.png','Share-form fits S = m x (D/100) + b (A 2022 official; B, C 2026)')]
 GR=f"# Graphs\n{HDR}\n"+'\n'.join(f"## {t} — 2026 {UN}\n![{t} — 2026 {UN}]({RAW}charts/{f})\n" for f,t in CH)+foot()
 SB=f"""**Illinois Election Analysis**
 - [[Home]]

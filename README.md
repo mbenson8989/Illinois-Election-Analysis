@@ -26,4 +26,4 @@ Reverse-factoring analysis of the Illinois governor races, 2022 (SBOE official) 
 | Full computed table (102 counties × 20 cols), Pass A vs Pass B | 2,040 | 2,040 | 0 |
 | Statewide summary (constant, multiplier, R², totals, floor/ceiling, flags) | 15 | 15 | 0 |
 
-Built Thursday, November 19, 2026 (CST).
+Built Thursday, November 19, 2026; share-form check added Friday, November 20, 2026 (CST).

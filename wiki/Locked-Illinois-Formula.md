@@ -21,6 +21,22 @@
 - The constant and multiplier are identical to 6 decimals in Pass A (exact rational arithmetic) and Pass B (numpy float64 polyfit).
 - The fit will change once the Dec 4, 2026 canvass is certified and the 42 excluded counties are added.
 
+## Share-form check: S = m × (D/100) + b (added Nov 20, 2026, CST)
+- **D** = registration stand-in share in percent (Democratic primary ballot share × 100). *Registration stand-in: Democratic primary ballot share - NOT official party registration; Illinois has no party registration.*
+- **S** = surplus in percentage points = 100 × (Dem share of ballots cast − stand-in share) = 100 × gap.
+- **Result of the check:** the published change-vs-drop fit above (constant 0.000194, multiplier −0.205049) is in a different form and different units. Applied literally as S = −0.205049 × (D/100) + 0.000194, it does **not** match the data: mean absolute residual 8.848246 pp across all 102 counties in 2022. So the share-form lines below were fitted by OLS from the raw verified data. The change-vs-drop fit above is unchanged and remains the locked formula.
+- **Fit C is the published fit, re-expressed.** In share form, delta-G (pp) = 79.495147 × (drop/100) + 0.019407. That is exactly 100 × (1 − 0.205049) and 100 × 0.000194, because delta-G = share change + stand-in drop. Its residuals equal 100 × the published residuals in all 60 counties.
+
+| Fit | n | m | b | R² | Mean abs residual (pp) | Largest residual: county (pp) | Mean abs residual if published m, b applied literally (pp) |
+|---|---|---|---|---|---|---|---|
+| A: 2022, official, all 102 counties (primary share-form fit) | 102 | -24.769946 | 12.831550 | 0.238576 | 4.756273 | Gallatin (-27.073738) | 8.848246 |
+| B: 2026 UNOFFICIAL (pre-Dec 4, 2026 canvass), 60 counties | 60 | -22.853488 | 7.438014 | 0.572823 | 3.135417 | Putnam (-9.948661) | 4.804988 |
+| C: delta-G vs stand-in drop, 2026 UNOFFICIAL (pre-Dec 4, 2026 canvass), 60 counties | 60 | 79.495147 | 0.019407 | 0.919634 | 1.745059 | Gallatin (4.595843) | 9.950009 |
+
+- **Fit A is the primary share-form line** because it is the only one that covers all 102 counties with official data. 2026 cannot cover all 102 counties until the remaining counties report (42 lack a county-authority ballots-cast figure). **No gaps were filled.**
+- Per-county S, D, predictions and residuals: [`out/share_pass_a.csv`](https://github.com/mbenson8989/Illinois-Election-Analysis/blob/main/out/share_pass_a.csv). Chart: [[Graphs]].
+- Verification of the share form (Pass A exact fractions vs Pass B numpy): 1,836 / 1,836 table cells and 36 / 36 fit statistics matched, 0 mismatches. S(2022) = 100 × published gap in 102 / 102 counties.
+
 ### Registration stand-in evaluation (Morissa's rule: best available comparable number, not the easiest)
 Illinois has **no party registration** (SBOE registration file lists only active/inactive voters per authority). Three candidates were evaluated:
 
@@ -44,4 +60,4 @@ Illinois has **no party registration** (SBOE registration file lists only active
 
 
 ---
-Registration stand-in: Democratic primary ballot share - NOT official party registration; Illinois has no party registration. 2026 = UNOFFICIAL (pre-Dec 4, 2026 canvass). Cross-link: [Cedar Audit (Nebraska)](https://github.com/mbenson8989/Nebraska-Election-Analysis-/wiki/Cedar-Audit) · [PDF report](https://github.com/mbenson8989/Illinois-Election-Analysis/blob/main/report/Illinois_Reverse_Factoring_Report_UNOFFICIAL_2026.pdf) · Built Thursday, November 19, 2026 (CST).
+Registration stand-in: Democratic primary ballot share - NOT official party registration; Illinois has no party registration. 2026 = UNOFFICIAL (pre-Dec 4, 2026 canvass). Cross-link: [Cedar Audit (Nebraska)](https://github.com/mbenson8989/Nebraska-Election-Analysis-/wiki/Cedar-Audit) · [PDF report](https://github.com/mbenson8989/Illinois-Election-Analysis/blob/main/report/Illinois_Reverse_Factoring_Report_UNOFFICIAL_2026.pdf) · Built Thursday, November 19, 2026; share-form check added Friday, November 20, 2026 (CST).
