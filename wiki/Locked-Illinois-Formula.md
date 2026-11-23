@@ -1,41 +1,87 @@
 # Locked Illinois Formula
-> **2026 figures are UNOFFICIAL (pre-Dec 4, 2026 canvass).** 2022 figures are SBOE official canvass.
->
-> **Registration stand-in: Democratic primary ballot share - NOT official party registration; Illinois has no party registration.**
 
-## Statewide fitted equation (OLS, unweighted, one point per county)
-**Dem-share change (2022→2026) = 0.000194 + (-0.205049) × stand-in drop**  ·  **R² = 0.432249**  ·  n = 60 counties
+> **\*2026 figures are UNOFFICIAL (pre-Dec 4, 2026 canvass), not certified by the Illinois State Board of Elections.** Governor race unless a page says otherwise. Votes are votes for the Democratic candidate. **Registration stand-in: Democratic primary ballot share - NOT official party registration; Illinois has no party registration:** R and D on these pages are Democratic primary ballots ÷ all primary ballots × 100 (SBOE official primary canvass), not a count of registered Democrats. These pages measure a pattern; they make no claim about intent, fraud or cause.
 
-| Term | Value |
-|---|---|
-| Constant | 0.000194 |
-| Multiplier (per unit of stand-in drop) | -0.205049 |
-| R² | 0.432249 |
-| n (counties with 2026 UNOFFICIAL (pre-Dec 4, 2026 canvass) data) | 60 |
-| Mean stand-in drop | -0.112464 |
-| Mean Dem-share change | 0.023255 |
-| Σ implied extra votes, UNOFFICIAL (pre-Dec 4, 2026 canvass) | 95,592.15 |
+## The equation
 
-- y = Dem share of ballots cast 2026 UNOFFICIAL (pre-Dec 4, 2026 canvass) − Dem share of ballots cast 2022 (SBOE official).
-- x = stand-in drop = Dem primary ballot share 2022 − Dem primary ballot share 2026. *Registration stand-in: Democratic primary ballot share - NOT official party registration; Illinois has no party registration.*
-- The constant and multiplier are identical to 6 decimals in Pass A (exact rational arithmetic) and Pass B (numpy float64 polyfit).
-- The fit will change once the Dec 4, 2026 canvass is certified and the 42 excluded counties are added.
+- **Dem share** = Democratic governor votes ÷ total ballots cast × 100
+- **D** (registration-share **STAND-IN**) = Democratic primary ballots ÷ all primary ballots × 100, from the SBOE official primary canvass (2022 General Primary, June 28, 2022; 2026 General Primary, March 17, 2026). *Registration stand-in: Democratic primary ballot share - NOT official party registration; Illinois has no party registration.*
+- **S** (surplus) = Dem share − D, in percentage points
 
-## Share-form check: S = m × (D/100) + b (added Nov 20, 2026, CST)
-- **D** = registration stand-in share in percent (Democratic primary ballot share × 100). *Registration stand-in: Democratic primary ballot share - NOT official party registration; Illinois has no party registration.*
-- **S** = surplus in percentage points = 100 × (Dem share of ballots cast − stand-in share) = 100 × gap.
-- **Result of the check:** the published change-vs-drop fit above (constant 0.000194, multiplier −0.205049) is in a different form and different units. Applied literally as S = −0.205049 × (D/100) + 0.000194, it does **not** match the data: mean absolute residual 8.848246 pp across all 102 counties in 2022. So the share-form lines below were fitted by OLS from the raw verified data. The change-vs-drop fit above is unchanged and remains the locked formula.
-- **Fit C is the published fit, re-expressed.** In share form, delta-G (pp) = 79.495147 × (drop/100) + 0.019407. That is exactly 100 × (1 − 0.205049) and 100 × 0.000194, because delta-G = share change + stand-in drop. Its residuals equal 100 × the published residuals in all 60 counties.
+Illinois has no party registration, so D is a stand-in, never official registration. Illinois uses total ballots cast as the denominator.
 
-| Fit | n | m | b | R² | Mean abs residual (pp) | Largest residual: county (pp) | Mean abs residual if published m, b applied literally (pp) |
-|---|---|---|---|---|---|---|---|
-| A: 2022, official, all 102 counties (primary share-form fit) | 102 | -24.769946 | 12.831550 | 0.238576 | 4.756273 | Gallatin (-27.073738) | 8.848246 |
-| B: 2026 UNOFFICIAL (pre-Dec 4, 2026 canvass), 60 counties | 60 | -22.853488 | 7.438014 | 0.572823 | 3.135417 | Putnam (-9.948661) | 4.804988 |
-| C: delta-G vs stand-in drop, 2026 UNOFFICIAL (pre-Dec 4, 2026 canvass), 60 counties | 60 | 79.495147 | 0.019407 | 0.919634 | 1.745059 | Gallatin (4.595843) | 9.950009 |
+## Illinois's equation in final form
 
-- **Fit A is the primary share-form line** because it is the only one that covers all 102 counties with official data. 2026 cannot cover all 102 counties until the remaining counties report (42 lack a county-authority ballots-cast figure). **No gaps were filled.**
-- Per-county S, D, predictions and residuals: [`out/share_pass_a.csv`](https://github.com/mbenson8989/Illinois-Election-Analysis/blob/main/out/share_pass_a.csv). Chart: [[Graphs]].
-- Verification of the share form (Pass A exact fractions vs Pass B numpy): 1,836 / 1,836 table cells and 36 / 36 fit statistics matched, 0 mismatches. S(2022) = 100 × published gap in 102 / 102 counties.
+### Surplus Equation (Illinois statewide constant)
+
+**Surplus Equation: S = -24.769946 × (D/100) + 12.831550**
+
+Where:
+- S = Surplus, expressed in percentage points: the county's Democratic share of ballots cast minus D (2022, SBOE official canvass)
+- D = Democratic registration-share **STAND-IN**, as a percent (0–100 scale): Democratic primary ballots ÷ all primary ballots × 100 (2022 General Primary). This is **not** party registration and not a headcount of registered Democrats.
+- -24.769946 = Multiplier coefficient
+- 12.831550 = Constant offset, in percentage points
+
+Illinois's multiplier and offset come from an ordinary least-squares fit of S on D/100 across **all 102 counties**, 2022 official SBOE data: **R² = 0.238576**, **mean absolute residual 4.756273 points**, largest residual Gallatin (-27.073738). It was verified in two independent passes. 2022 is the locked year because it is the only year with official results for all 102 counties.
+
+### County-level surplus
+
+**S = Dem share − D**, and the county's **residual = S − [-24.769946 × (D/100) + 12.831550]**
+
+Cook County plugged in (2022):
+
+**S = 73.041222 − 79.245488 = -6.204266**; fitted = -6.797515; residual = **0.593249** points.
+
+### Secondary fit (not the locked equation)
+
+Same surplus form, S = m × (D/100) + b. 2026 is UNOFFICIAL (pre-Dec 4, 2026 canvass) and covers only the 80 counties with a county-authority ballots-cast figure. No gaps were filled.
+
+| Fit | n | Multiplier | Offset | R² | Mean abs residual (pp) | Largest residual |
+|---|---|---|---|---|---|---|
+| **Locked: 2022 official** | 102 | -24.769946 | 12.831550 | 0.238576 | 4.756273 | Gallatin (-27.073738) |
+| 2026 surplus, UNOFFICIAL (pre-Dec 4, 2026 canvass) | 80 | -23.943680 | 7.950292 | 0.569513 | 3.168365 | McDonough (12.104883) |
+
+![Illinois Surplus Equation: locked 2022 fit and secondary 2026 UNOFFICIAL fit](https://raw.githubusercontent.com/mbenson8989/Illinois-Election-Analysis/main/charts/il_surplus_equation_locked_UNOFFICIAL2026.png)
+
+Every county's S, D, fitted value and residual (both years) is in [`out/surplus_pass_a.csv`](https://github.com/mbenson8989/Illinois-Election-Analysis/blob/main/out/surplus_pass_a.csv).
+
+## Blank template
+
+| Line | Item | 2022 | 2026* |
+|---|---|---|---|
+| 1 | Democratic governor votes | ______ | ______ |
+| 2 | Total ballots cast | ______ | ______ |
+| 3 | Dem share = line 1 ÷ line 2 × 100 | ______ | ______ |
+| 4 | Democratic primary ballots (stand-in; SBOE primary canvass) | ______ | ______ |
+| 5 | All primary ballots (SBOE primary canvass) | ______ | ______ |
+| 6 | D = line 4 ÷ line 5 × 100 (stand-in, NOT registration) | ______ | ______ |
+| 7 | S = line 3 − line 6 | ______ | ______ |
+| 8 | D ÷ 100 | ______ | ______ |
+| 9 | Multiplier × line 8 | ______ | ______ |
+| 10 | Expected S = line 9 + offset | ______ | ______ |
+| 11 | Residual = line 7 − line 10 | ______ | ______ |
+| 12 | Residual in votes = line 11 ÷ 100 × line 2 | ______ | ______ |
+
+## Rules for using this formula
+
+1. **Use the locked multiplier and offset above for every Illinois county.** Do not refit per county.
+2. **The starting point is different in every state. Don't assume Nebraska's numbers carry over.** Illinois's D is primary-ballot share, not registration. Its 2022→2026 statewide jump (51.88% → 67.87%) reflects which primaries were contested. Compare Illinois counties only against Illinois's own range.
+3. **Always pull out the floor and ceiling counties.** See [Floor and Ceiling Counties](Floor-and-Ceiling).
+
+## Worked example: Cook
+
+| Line | Item | 2022 | 2026* |
+|---|---|---|---|
+| 1 | Democratic governor votes | 1,065,445 | 1,244,743* |
+| 2 | Total ballots cast | 1,458,690 | 1,579,770* |
+| 4 | Democratic primary ballots (stand-in) | 524,388 | 722,905 |
+| 5 | All primary ballots | 661,726 | 818,820 |
+| 6 | D (stand-in) | 79.245488 | 88.286192 |
+| 7 | S | -6.204266 | -9.493520* |
+| 10 | Expected S (locked line for 2022; 2026 line for 2026*) | -6.797515 | -13.188671* |
+| 11 | Residual | 0.593249 | 3.695151* |
+
+Cook 2026\* = Chicago Board of Election Commissioners + Cook County Clerk (suburban Cook).
 
 ### Registration stand-in evaluation (Morissa's rule: best available comparable number, not the easiest)
 Illinois has **no party registration** (SBOE registration file lists only active/inactive voters per authority). Three candidates were evaluated:
@@ -49,15 +95,22 @@ Illinois has **no party registration** (SBOE registration file lists only active
 **Caveat — 2022→2026 contest-structure jump.** Statewide the Democratic share of primary ballots went from **51.88%** (911,919 of 1,757,872, June 28, 2022) to **67.87%** (1,283,256 of 1,890,699, March 17, 2026). A 16-point move in one cycle reflects *which primaries were contested* (2022: competitive Republican governor primary; 2026: high-profile Democratic primaries), not a real shift in party loyalty. The stand-in **drop** is therefore negative in most counties, and the fitted multiplier measures how general-election share moved relative to that contest-driven swing. Read results as relative (county vs county), not as registration-based absolutes. Small-county primaries can swing on a single local contest (e.g. Gallatin, a high-leverage point on the fit chart).
 
 ## Verification
+
+Every computed cell was produced by two independent passes (Pass A: exact fractions; Pass B: pandas/numpy). Each pass read the raw files separately, and the cells were compared to the decimal.
+
 | Check | Cells compared | Matched | Mismatched |
 |---|---|---|---|
 | 2022 SBOE vote file, Pass A vs Pass B | 1,122 | 1,122 | 0 |
 | 2022 vs SBOE PDF governor table | 204 | 204 | 0 |
 | Stand-in (2022 & 2026 primary ballots), Pass A vs Pass B | 918 | 918 | 0 |
-| 2026 county raw D/R/ballots (UNOFFICIAL (pre-Dec 4, 2026 canvass)), Pass A vs Pass B | 300 | 300 | 0 |
+| 2026 county raw D/R/ballots (UNOFFICIAL (pre-Dec 4, 2026 canvass)), Pass A vs Pass B | 400 | 400 | 0 |
 | Full computed table (102 counties × 20 cols), Pass A vs Pass B | 2,040 | 2,040 | 0 |
 | Statewide summary (constant, multiplier, R², totals, floor/ceiling, flags) | 15 | 15 | 0 |
+| Share-form fits (S = m × (D/100) + b), Pass A vs Pass B | 1,872 | 1,872 | 0 |
+| Locked surplus equation (S, D, fitted, residual for 102 counties; fit statistics), Pass A vs Pass B | 1,136 | 1,136 | 0 |
 
 
 ---
-Registration stand-in: Democratic primary ballot share - NOT official party registration; Illinois has no party registration. 2026 = UNOFFICIAL (pre-Dec 4, 2026 canvass). Cross-link: [Cedar Audit (Nebraska)](https://github.com/mbenson8989/Nebraska-Election-Analysis-/wiki/Cedar-Audit) · [PDF report](https://github.com/mbenson8989/Illinois-Election-Analysis/blob/main/report/Illinois_Reverse_Factoring_Report_UNOFFICIAL_2026.pdf) · Built Thursday, November 19, 2026; share-form check added Friday, November 20, 2026 (CST).
+**Related:** [Bottom-Up Reverse Math](Reverse-Math) · [Floor and Ceiling Counties](Floor-and-Ceiling) · [Graphs](Graphs) · [Home](Home) · [Cedar County Audit (Nebraska)](https://github.com/mbenson8989/Nebraska-Election-Analysis-/wiki/Cedar-Audit) · [PDF report](https://github.com/mbenson8989/Illinois-Election-Analysis/blob/main/report/Illinois_Reverse_Factoring_Report_UNOFFICIAL_2026.pdf)
+
+Registration stand-in: Democratic primary ballot share - NOT official party registration; Illinois has no party registration. 2026 = UNOFFICIAL (pre-Dec 4, 2026 canvass). Built Sunday, November 22, 2026, 11:59 PM CST (2026 county data refreshed Nov 22).

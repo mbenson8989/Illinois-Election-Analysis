@@ -1,0 +1,13 @@
+{
+ "table_cells": 2160,
+ "table_matched": 2160,
+ "table_mismatches": [],
+ "summary_fields": 12,
+ "summary_matched": 12,
+ "summary_mismatches": [],
+ "consistent_with_published_dG_and_share_change": [
+  80,
+  80
+ ],
+ "ship": true
+}

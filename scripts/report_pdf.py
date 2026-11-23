@@ -36,12 +36,20 @@ E+=[Paragraph('Double verification (two independent passes; every cell to the de
  Paragraph('One mismatch was found and fixed before publication: Stephenson 2026 Dem share 6,199/16,000 = 0.3874375 exactly (a decimal tie). Pass A rounded it half-to-even (0.387438) and Pass B float formatting gave 0.387437. Pass B now uses exact integer half-to-even rounding; both passes were re-run and every cell matches.',B)]
 
 SA=json.load(open(O+'share_pass_a_summary.json'))['fits']; SV=json.load(open(O+'verification_share_form.json'))
-E+=[PageBreak(),Paragraph('Share-form check: S = m x (D/100) + b',H2),
- Paragraph(f"D = stand-in share in percent (Dem primary ballot share x 100; NOT registration). S = surplus in pp = 100 x (Dem share of ballots cast - stand-in share). The published change-vs-drop fit (0.000194 + (-0.205049) x drop) is a different form and different units. Applied literally in the share form, it does not match the data: mean absolute residual {SA['A_2022_official']['published_applied_mean_abs_residual_pp']} pp, 2022, n=102. The share-form lines were therefore fitted by OLS from the raw verified data. Fit C (delta-G vs stand-in drop) is the published fit re-expressed: m = 100 x (1 - 0.205049), b = 100 x 0.000194. Its residuals equal 100 x the published residuals in all 60 counties. 2026 covers only 60 counties; no gaps were filled.",B),Spacer(1,6),
- tbl([['Fit','n','m','b','R²','Mean |resid| pp','Largest residual (pp)','Published m,b applied: mean |resid| pp']]+[[l,f['n'],f['m'],f['b'],f['r_squared'],f['mean_abs_residual_pp'],f"{f['max_residual_county']} {f['max_residual_pp']}",f['published_applied_mean_abs_residual_pp']] for l,f in
-  [('A: 2022 official (primary)',SA['A_2022_official']),(f'B: 2026 {UN}',SA['B_2026_UNOFFICIAL']),(f'C: delta-G vs drop, 2026 {UN}',SA['C_deltaG_vs_drop_2026_UNOFFICIAL'])]],None,7),Spacer(1,4),
- Paragraph(f"Verification (Pass A exact fractions vs Pass B numpy): {SV['table_matched']:,}/{SV['table_cells']:,} cells and {SV['summary_matched']}/{SV['summary_fields']} fit statistics matched; 0 mismatches.",B),
- Image(I+'charts/il_share_form_fits_UNOFFICIAL.png',width=9.3*inch,height=3.3*inch,kind='proportional')]
+NE=json.load(open(O+'ne_format_pass_a_summary.json')); NV=json.load(open(O+'verification_ne_format.json')); A=SA['A_2022_official']; VG=NE['vote_share_growth_fit']
+SU=json.load(open(O+'surplus_pass_a_summary.json')); SUV=json.load(open(O+'verification_surplus_locked.json')); LA=SU['LOCKED_2022_official']; LB=SU['SECONDARY_2026_UNOFFICIAL']
+box=Table([[Paragraph(f"<b>Surplus Equation: S = {LA['multiplier']} x (D/100) + {LA['offset']}</b>",ParagraphStyle('eq',parent=B,fontSize=13,leading=16))]],colWidths=[6.5*inch])
+box.setStyle(TableStyle([('BOX',(0,0),(-1,-1),1.2,colors.black),('LEFTPADDING',(0,0),(-1,-1),10),('TOPPADDING',(0,0),(-1,-1),8),('BOTTOMPADDING',(0,0),(-1,-1),8)]))
+E+=[PageBreak(),Paragraph('Locked Illinois Formula: Surplus Equation (Illinois statewide constant)',H2),box,Spacer(1,6),Paragraph('Where:',B),
+ Paragraph('- S = Surplus, expressed in percentage points: Dem share of ballots cast minus D (2022, SBOE official canvass)',B),
+ Paragraph('- D = Democratic registration-share <b>STAND-IN</b>, as a percent (0-100 scale): Democratic primary ballots / all primary ballots x 100 (2022 General Primary). Illinois has no party registration; this is NOT party registration and not a headcount of registered Democrats.',B),
+ Paragraph(f"- {LA['multiplier']} = Multiplier coefficient",B),Paragraph(f"- {LA['offset']} = Constant offset, in percentage points",B),Spacer(1,4),
+ Paragraph(f"OLS fit of S on D/100 across all {LA['n']} counties, 2022 official SBOE data: R² = {LA['r_squared']}; mean absolute residual {LA['mean_abs_residual_pp']} pp; largest residual {LA['max_residual_county']} ({LA['max_residual_pp']}). Format follows the Nebraska wiki's Locked formula page. 2022 is the locked year because it is the only year with official results for all 102 counties.",B),
+ Paragraph('Secondary fit (same surplus form; not the locked equation; 2026 = '+UN+f", {LB['n']} counties, no gaps filled)",ParagraphStyle('h3',parent=B,fontName='Helvetica-Bold')),
+ tbl([['Fit','n','Multiplier','Offset','R²','Mean |resid| pp','Largest residual (pp)']]+[[l,f['n'],f['multiplier'],f['offset'],f['r_squared'],f['mean_abs_residual_pp'],f"{f['max_residual_county']} {f['max_residual_pp']}"] for l,f in
+  [('LOCKED: 2022 surplus, official',LA),(f'2026 surplus, {UN}',LB)]],None,7),Spacer(1,4),
+ Paragraph(f"Verification (Pass A exact fractions vs Pass B pandas/numpy): locked surplus table and fit {SUV['table_matched']+SUV['fit_matched']:,}/{SUV['table_cells']+SUV['fit_fields']:,} cells, 0 mismatches.",B),
+ Image(I+'charts/il_surplus_equation_locked_UNOFFICIAL2026.png',width=9.3*inch,height=3.5*inch,kind='proportional')]
 E+=[PageBreak(),Paragraph('Registration stand-in evaluation',H2)]
 E+=[tbl([['Option','Coverage','Accuracy','Defensibility','Verdict'],
  [Paragraph('1. SBOE Democratic primary ballot share',sm),Paragraph('All 102 counties, 2022 and 2026, one official source',sm),Paragraph('Moderate: sensitive to which primaries were contested',sm),Paragraph('Highest: SBOE official canvass, reproducible',sm),'CHOSEN'],

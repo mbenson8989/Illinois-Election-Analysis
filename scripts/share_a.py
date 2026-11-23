@@ -1,8 +1,8 @@
 """SHARE-FORM CHECK, PASS A (stdlib, exact Fractions, Decimal ROUND_HALF_EVEN).
 S = m*(D/100) + b ; D = registration STAND-IN share in percent (Dem primary ballot share x100 - NOT official party registration);
 S = surplus in percentage points = 100 x (Dem share of ballots cast - stand-in share)  [= 100 x gap].
-Fits: A = 2022 (official, 102 counties); B = 2026 UNOFFICIAL (pre-Dec 4, 2026 canvass), 60 counties, no gap filling;
-C = delta-G form: S = 100 x delta-G, D = 100 x stand-in drop (algebraic re-expression of the published change-vs-drop fit), 60 counties.
+Fits: A = 2022 (official, 102 counties); B = 2026 UNOFFICIAL (pre-Dec 4, 2026 canvass), 80 counties, no gap filling;
+C = delta-G form: S = 100 x delta-G, D = 100 x stand-in drop (algebraic re-expression of the published change-vs-drop fit), 80 counties.
 Also applies the PUBLISHED m=-0.205049, b=0.000194 literally in the share form."""
 import csv, json
 from fractions import Fraction as F

@@ -51,3 +51,20 @@ EXCLUDED_NOTE={'VERMILION':'county clerk file found (pollresults) but City of Da
  'DOUGLAS':'county pollresults feed holds no 2026 ballots-cast total',
  'HARDIN':'only local-office results located; no governor contest',
  'BROWN':'county summary PDF is an image scan (no text layer)','JODAVIESS':'county official-results PDF is an image scan (no text layer)'}
+
+# ---- added Nov 22 2026 (CST) ----
+def pr2(k,auth): return (auth,'pollresults',R+f'pollresults_nov22/{k}.json',f'https://il-{k}.pollresults.net/Home/ElectionData')
+def gb(k,auth): return (auth,'gbsvote',R+f'gbsvote_nov22/{k}_results.json',f'https://{k}.results.gbsvote.com/results/{k}/2026-general/current/results.json')
+for k,a in [('kankakee','Kankakee'),('montgomery','Montgomery'),('douglas','Douglas'),('crawford','Crawford'),('mercer','Mercer'),('clay','Clay'),('marshall','Marshall'),('hardin','Hardin')]:
+    M[k.upper()]=[pr2(k,a+' County Clerk')]
+for k,a in [('johnson','Johnson'),('morgan','Morgan'),('perry','Perry'),('washington','Washington'),('cass','Cass'),('greene','Greene'),('cumberland','Cumberland'),('scott','Scott')]:
+    M[k.upper()]=[gb(k,a+' County Clerk')]
+M['KNOX']=[gb('knox','Knox County Clerk (outside Galesburg)'),
+  ('City of Galesburg Board of Election Commissioners','el45_pdf_text',R+'county/galesburg__pdf.pdf','https://www.galesburg.city/Documents/Government/External%20Organizations/Galesburg%20Board%20of%20Elections/Elections%20Results/Unofficial%20-%2011-03-2026%20General%20Election.pdf')]
+M['EFFINGHAM']=[('Effingham County Clerk','lvt_precinct_sum',R+'county/effingham__lvt.html','https://www.livevoterturnout.com/ENR/effinghamilenr/2/en/Index_2.html')]
+M['MCDONOUGH']=[('McDonough County Clerk','canvass_totals_pdf',R+'county/mcdonough__canvass.pdf','https://www.mcdonoughelections.com/results-2.pdf')]
+M['JEFFERSON']=[('Jefferson County Clerk','scan_el45',(R+'county/jefferson__summary_p1_ocr.json',R+'county/jefferson__summary_p1_transcribed.json'),'https://jeffersoncounty.illinois.gov/Document%20center/County%20Clerks%20Docs/Elections/2026%20General/2026%20General%20Summary.pdf')]
+EXCLUDED_NOTE={'VERMILION':'Vermilion County Clerk feed found (pollresults), but City of Danville Election Commission results not located (il-danville pollresults returns empty)',
+ 'WARREN':'Warren County Clerk feed (gbsvote) reports 0 of 28 precincts reporting; completeness cannot be confirmed',
+ 'SALINE':'county clerk site posts only uncounted-ballot notices; results found only as a radio-station reprint (not used)',
+ 'BROWN':'county summary PDF is an image scan; not transcribed this round','JODAVIESS':'county official-results PDF is an image scan; not transcribed this round'}

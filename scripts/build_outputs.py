@@ -15,7 +15,7 @@ cols=list(T[0])+['source_2026_UNOFFICIAL','source_url_2026','as_of_2026','status
 pub=[]
 for r in T:
     k=r['county_key']; s=src.get(k,[])
-    st='included (UNOFFICIAL)' if s else 'excluded: '+EXCLUDED_NOTE.get(k,'no county-authority 2026 ballots-cast figure collected before cutoff')
+    st='included (UNOFFICIAL)' if s else 'excluded: '+EXCLUDED_NOTE.get(k,'no posted 2026 governor results located on the county election authority website or its results vendors (pollresults, gbsvote, Platinum, Clarity, LiveVoterTurnout) as of Nov 22, 2026')
     pub.append({**r,'source_2026_UNOFFICIAL':' + '.join(f"{x['authority']} ({x['source_type']})" for x in s),'source_url_2026':' ; '.join(x['url'] for x in s),
                 'as_of_2026':' ; '.join(x['as_of'] for x in s),'status_2026':st})
 with open(O+'il_governor_reverse_math_2022_2026_VERIFIED.csv','w',newline='') as fh:

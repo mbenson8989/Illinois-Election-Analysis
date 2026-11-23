@@ -2,9 +2,9 @@
  "civicapi_race": "https://civicapi.org/api/v2/race/87130",
  "civicapi_last_updated_utc": "2026-11-19T23:30:10.834Z",
  "civicapi_percent_reporting": 90.9,
- "counties_compared": 60,
- "exact_D_R_match": 43,
- "differ": 17,
+ "counties_compared": 80,
+ "exact_D_R_match": 50,
+ "differ": 30,
  "max_abs_diff_D": 5112,
  "max_abs_diff_R": 1458,
  "largest": [
@@ -69,6 +69,16 @@
    "diff_R": -148
   },
   {
+   "county": "PERRY",
+   "civicapi_D": 1193,
+   "civicapi_R": 5121,
+   "used_D": 1521,
+   "used_R": 5412,
+   "civicapi_pct_reporting": 78.2,
+   "diff_D": 328,
+   "diff_R": 291
+  },
+  {
    "county": "WINNEBAGO",
    "civicapi_D": 48227,
    "civicapi_R": 38307,
@@ -77,16 +87,6 @@
    "civicapi_pct_reporting": 91.2,
    "diff_D": -172,
    "diff_R": -180
-  },
-  {
-   "county": "MCLEAN",
-   "civicapi_D": 36993,
-   "civicapi_R": 27344,
-   "used_D": 37242,
-   "used_R": 27427,
-   "civicapi_pct_reporting": 94.2,
-   "diff_D": 249,
-   "diff_R": 83
   }
  ],
  "voteclock_vs_feed": [

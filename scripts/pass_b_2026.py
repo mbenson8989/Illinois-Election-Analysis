@@ -1,5 +1,7 @@
 """PASS B 2026 (UNOFFICIAL): independent code path. HTML via BeautifulSoup/lxml DOM; PDFs via pdfplumber words;
-JSON via raw-text regex (no json module). Candidate identified by NAME (Pass A used party labels where possible)."""
+JSON via raw-text regex (no json module). Candidate identified by NAME (Pass A used party labels where possible).
+Nov 22 additions: gbsvote JSON via pandas; Effingham via BeautifulSoup DOM; PDFs via pdfplumber;
+Jefferson (scanned) via an independent visual transcription with a checksum (Pass A uses OCR)."""
 import re, csv, sys
 from bs4 import BeautifulSoup
 import pdfplumber
@@ -89,6 +91,49 @@ def b_radio(f):
     return v('Pritzker'),v('Bailey'),b
 P={'voteclock':b_voteclock,'pollresults':b_pollresults,'platinum':b_platinum,'clarity':b_clarity,'cumpdf':b_cumpdf,'el45':b_el45,'chicago_pdf':b_chicago,
    'radio_wmix':b_radio,'radio_webq_a':b_radio,'radio_webq_b':b_radio}
+
+def b_gbsvote(f):
+    import pandas as pd
+    raw=pd.read_json(f,typ='series'); races=pd.DataFrame(raw['races'])
+    g=races[races['title'].str.contains('GOVERNOR AND LIEUTENANT',case=False)].iloc[0]
+    c=pd.DataFrame(g['candidates']); s=c.groupby('party')['votes'].sum()
+    return int(s['DEM']),int(s['REP']),int(raw['summary']['ballotsCast'])
+def b_lvt_precinct_sum(f):
+    s=soup(f); dem=rep=0; n=0
+    for div in s.find_all('div',class_='list-item-precinct-race'):
+        a=div.find('a',attrs={'aria-label':True})
+        if not a['aria-label'].strip().endswith('Contest: GOVERNOR & LIEUTENANT GOVERNOR'): continue
+        n+=1
+        for tr in div.find_all('tr',class_='content-row'):
+            name=tr.find('td',attrs={'dc':'true'}).find('span').get_text(strip=True); v=N(tr.find('td',attrs={'dv':'true'}).get_text(strip=True))
+            if name.startswith('Pritzker'): dem+=v
+            elif name.startswith('Bailey'): rep+=v
+    sp=[x for x in s.find_all('span') if x.get_text(strip=True)=='Ballots Counted'][0]
+    b=N(sp.find_parent('div').find_next_sibling('div').get_text(strip=True))
+    assert n==38
+    return dem,rep,b
+def b_canvass_totals_pdf(f):
+    import pdfplumber
+    with pdfplumber.open(f) as pdf:
+        for pg in pdf.pages:
+            t=pg.extract_text() or ''
+            if 'FOR GOVERNOR AND LIEUTENANT GOVERNOR' in t:
+                for line in t.splitlines():
+                    if line.startswith('Totals'):
+                        v=[N(x) for x in line.split()[1:] if re.fullmatch(r'[\d,]+',x)]
+                        return v[0],v[1],v[11]
+def b_el45_pdf_text(f):
+    import pdfplumber
+    with pdfplumber.open(f) as pdf: t=pdf.pages[0].extract_text()
+    def g(lbl):
+        line=[l for l in t.splitlines() if l.replace(' ','').startswith(lbl)][0]
+        return N([x for x in line.split() if re.fullmatch(r'[\d,]+',x)][0])
+    return g('PritzkerandMitchell(DEM)'),g('BaileyandDelMar(REP)'),g('BALLOTSCAST-TOTAL')
+def b_scan_el45(fs):
+    import json; T=json.load(open(fs[1])); g=T['governor']; b=T['ballots_cast_total']
+    assert sum(g.values())==b, 'transcription checksum failed'
+    return g['Pritzker and Mitchell (DEM)'],g['Bailey and Del Mar (REP)'],b
+P.update({'gbsvote':b_gbsvote,'lvt_precinct_sum':b_lvt_precinct_sum,'canvass_totals_pdf':b_canvass_totals_pdf,'el45_pdf_text':b_el45_pdf_text,'scan_el45':b_scan_el45})
 if __name__=='__main__':
     rows=[]
     for c in sorted(M):

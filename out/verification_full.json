@@ -10,9 +10,9 @@
  "raw_2026_UNOFFICIAL": {
   "file_a": "pass_a_2026_raw.csv",
   "file_b": "pass_b_2026_raw.csv",
-  "rows": 60,
-  "cells": 300,
-  "matched": 300,
+  "rows": 80,
+  "cells": 400,
+  "matched": 400,
   "mismatches": []
  },
  "computed_table": {

@@ -74,6 +74,38 @@ def p_radio_webq_b(f):
     return after('Pritzker'),after('Bailey'),b,'WEBQ page, report printed Nov 3 2026 9:02 p.m., unofficial'
 P={'voteclock':p_voteclock,'pollresults':p_pollresults,'platinum':p_platinum,'clarity':p_clarity,'cumpdf':p_cumpdf,'el45':p_el45,'chicago_pdf':p_chicago,
    'radio_wmix':p_radio_wmix,'radio_webq_a':p_radio_webq_a,'radio_webq_b':p_radio_webq_b}
+
+def p_gbsvote(f):
+    d=json.load(open(f)); g=[x for x in d['races'] if x['title'].upper().startswith('GOVERNOR')][0]
+    dem=sum(c['votes'] for c in g['candidates'] if c['party']=='DEM'); rep=sum(c['votes'] for c in g['candidates'] if c['party']=='REP')
+    return dem,rep,d['summary']['ballotsCast'],d['election']['lastUpdated']+' UTC; status '+d['election']['status']
+def p_lvt_precinct_sum(f):
+    L=htxt(f); b=num(L[L.index('Ballots Counted')+1]); dem=rep=0; n=0
+    for k,x in enumerate(L):
+        if x.startswith('Precinct:') and x.endswith('Contest: GOVERNOR & LIEUTENANT GOVERNOR'):
+            n+=1; seg=L[k:k+20]
+            dem+=num(seg[seg.index('Pritzker and Mitchell')+2]); rep+=num(seg[seg.index('Bailey and Del Mar')+2])
+    assert n==int(L[L.index('Total Precincts')+1])
+    return dem,rep,b,'sum of %d precinct rows; site updated %s'%(n,L[L.index('Website Updated:')+1])
+def p_canvass_totals_pdf(f):
+    pages=ptxt(f).split('\f'); gp=[p for p in pages if 'FOR GOVERNOR AND LIEUTENANT GOVERNOR' in p]
+    tot=[l for p in gp for l in p.splitlines() if l.strip().startswith('Totals')]
+    v=[num(x) for x in re.findall(r'[\d,]+(?=\s|$)',tot[0].split('Totals',1)[1])]
+    rd=re.search(r'Run Date\s+(\S+)',gp[0]).group(1)
+    return v[0],v[1],v[11],'canvass run date '+rd
+def p_el45_pdf_text(f):
+    t=ptxt(f); fx=lambda pat:num(re.search(pat+r'[ .]*\s+([\d,]+)',t).group(1))
+    rd=re.search(r'RUN DATE\s*:\s*(\S+)',t).group(1)+' 9:32 PM (election night)'
+    return fx(r'Pritzker and Mitchell \(DEM\)'),fx(r'Bailey and Del Mar \(REP\)'),fx(r'BALLOTS CAST - TOTAL\.'),'run date '+rd
+def p_scan_el45(fs):
+    """OCR rows (RapidOCR, 300 dpi): find label row, take the TOTAL VOTES column token (x within 820-960) on the same line."""
+    O=json.load(open(fs[0]))
+    def val(label):
+        y=[o[1] for o in O if label in o[2]][0]
+        c=[o[2] for o in O if abs(o[1]-y)<25 and 820<=o[0]<=960]
+        return int(re.sub(r'[^0-9]','',c[0]))
+    return val('Pritzker'),val('Bailey'),val('BALLOTS CAST - TOTAL'),'OCR of scanned OFFICIAL RESULTS run 11/19/26'
+P.update({'gbsvote':p_gbsvote,'lvt_precinct_sum':p_lvt_precinct_sum,'canvass_totals_pdf':p_canvass_totals_pdf,'el45_pdf_text':p_el45_pdf_text,'scan_el45':p_scan_el45})
 if __name__=='__main__':
     comp=[]; rows=[]
     for c in sorted(M):

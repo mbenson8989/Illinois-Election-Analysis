@@ -26,10 +26,10 @@ SF=f"""## Share-form check: S = m × (D/100) + b (added Nov 20, 2026, CST)
 | Fit | n | m | b | R² | Mean abs residual (pp) | Largest residual: county (pp) | Mean abs residual if published m, b applied literally (pp) |
 |---|---|---|---|---|---|---|---|
 {frow('A: 2022, official, all 102 counties (primary share-form fit)',SA['A_2022_official'])}
-{frow(f'B: 2026 {UN}, 60 counties',SA['B_2026_UNOFFICIAL'])}
-{frow(f'C: delta-G vs stand-in drop, 2026 {UN}, 60 counties',SA['C_deltaG_vs_drop_2026_UNOFFICIAL'])}
+{frow(f'B: 2026 {UN}, 80 counties',SA['B_2026_UNOFFICIAL'])}
+{frow(f'C: delta-G vs stand-in drop, 2026 {UN}, 80 counties',SA['C_deltaG_vs_drop_2026_UNOFFICIAL'])}
 
-- **Fit A is the primary share-form line** because it is the only one that covers all 102 counties with official data. 2026 cannot cover all 102 counties until the remaining counties report (42 lack a county-authority ballots-cast figure). **No gaps were filled.**
+- **Fit A is the primary share-form line** because it is the only one that covers all 102 counties with official data. 2026 cannot cover all 102 counties until the remaining counties report (22 lack a county-authority ballots-cast figure). **No gaps were filled.**
 - Per-county S, D, predictions and residuals: [`out/share_pass_a.csv`]({REPO}/blob/main/out/share_pass_a.csv). Chart: [[Graphs]].
 - Verification of the share form (Pass A exact fractions vs Pass B numpy): {SV['table_matched']:,} / {SV['table_cells']:,} table cells and {SV['summary_matched']} / {SV['summary_fields']} fit statistics matched, 0 mismatches. S(2022) = 100 × published gap in {SV['gap_consistency_S2022_eq_100xgap'][0]} / {SV['gap_consistency_S2022_eq_100xgap'][1]} counties.
 """

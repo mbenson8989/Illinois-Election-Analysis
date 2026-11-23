@@ -1,11 +1,11 @@
 {
- "n_fit": 60,
- "constant": "0.000194",
- "multiplier": "-0.205049",
- "r_squared": "0.432249",
- "total_implied_extra_votes": "95592.15",
- "sum_positive_implied": "102315.77",
- "sum_negative_implied": "-6723.62",
+ "n_fit": 80,
+ "constant": "0.000204",
+ "multiplier": "-0.197856",
+ "r_squared": "0.440899",
+ "total_implied_extra_votes": "99653.31",
+ "sum_positive_implied": "107048.43",
+ "sum_negative_implied": "-7395.12",
  "floor_2022": [
   "Wayne",
   "0.093777"
@@ -24,6 +24,6 @@
  ],
  "over_ballot_2022": [],
  "over_ballot_2026": [],
- "mean_standin_drop": "-0.112464",
- "mean_share_change": "0.023255"
+ "mean_standin_drop": "-0.097312",
+ "mean_share_change": "0.019458"
 }

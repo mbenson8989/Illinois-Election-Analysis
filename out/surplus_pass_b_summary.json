@@ -1,0 +1,20 @@
+{
+ "LOCKED_2022_official": {
+  "n": 102,
+  "multiplier": "-24.769946",
+  "offset": "12.831550",
+  "r_squared": "0.238576",
+  "mean_abs_residual_pp": "4.756273",
+  "max_residual_county": "Gallatin",
+  "max_residual_pp": "-27.073738"
+ },
+ "SECONDARY_2026_UNOFFICIAL": {
+  "n": 80,
+  "multiplier": "-23.943680",
+  "offset": "7.950292",
+  "r_squared": "0.569513",
+  "mean_abs_residual_pp": "3.168365",
+  "max_residual_county": "McDonough",
+  "max_residual_pp": "12.104883"
+ }
+}

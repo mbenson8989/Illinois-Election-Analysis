@@ -20,32 +20,32 @@
    "mean_D_pct": "23.041226"
   },
   "B_2026_UNOFFICIAL": {
-   "n": 60,
-   "m": "-22.853488",
-   "b": "7.438014",
-   "r_squared": "0.572823",
-   "mean_abs_residual_pp": "3.135417",
-   "max_residual_county": "Putnam",
-   "max_residual_pp": "-9.948661",
-   "published_applied_mean_abs_residual_pp": "4.804988",
+   "n": 80,
+   "m": "-23.943680",
+   "b": "7.950292",
+   "r_squared": "0.569513",
+   "mean_abs_residual_pp": "3.168365",
+   "max_residual_county": "McDonough",
+   "max_residual_pp": "12.104883",
+   "published_applied_mean_abs_residual_pp": "4.883930",
    "published_applied_max_residual_county": "Putnam",
    "published_applied_max_residual_pp": "-14.721303",
-   "mean_S_pp": "-1.175386",
-   "mean_D_pct": "37.689650"
+   "mean_S_pp": "-0.162048",
+   "mean_D_pct": "33.880923"
   },
   "C_deltaG_vs_drop_2026_UNOFFICIAL": {
-   "n": 60,
-   "m": "79.495147",
-   "b": "0.019407",
-   "r_squared": "0.919634",
-   "mean_abs_residual_pp": "1.745059",
+   "n": 80,
+   "m": "80.214366",
+   "b": "0.020436",
+   "r_squared": "0.928374",
+   "mean_abs_residual_pp": "1.637622",
    "max_residual_county": "Gallatin",
-   "max_residual_pp": "4.595843",
-   "published_applied_mean_abs_residual_pp": "9.950009",
+   "max_residual_pp": "4.428419",
+   "published_applied_mean_abs_residual_pp": "8.970355",
    "published_applied_max_residual_county": "Gallatin",
    "published_applied_max_residual_pp": "23.054131",
-   "mean_S_pp": "-8.920969",
-   "mean_D_pct": "-11.246443"
+   "mean_S_pp": "-7.785356",
+   "mean_D_pct": "-9.731164"
   }
  }
 }

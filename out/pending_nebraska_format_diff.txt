@@ -1,0 +1,12 @@
+Illinois publish build — Sunday, Nov 22, 2026, ~11:59 PM CST (approved by Morissa, t7u)
+Changes vs origin/main 907ee60:
+- 2026 UNOFFICIAL county coverage 60 -> 80 (added: Kankakee, Montgomery, Douglas, Crawford, Mercer, Clay, Marshall, Hardin [pollresults];
+  Johnson, Morgan, Perry, Washington, Cass, Greene, Cumberland, Scott [gbsvote]; Knox [gbsvote county + Galesburg Board EL45A PDF];
+  Effingham [LiveVoterTurnout, sum of 38 precincts]; McDonough [official canvass PDF]; Jefferson [scanned official EL45A summary: OCR Pass A, visual transcription Pass B]).
+- Still excluded (22): Vermilion (Danville missing), Warren (feed 0/28 reporting), Saline (radio reprint only), Brown & Jo Daviess (image scans not transcribed),
+  Monroe, Iroquois, Hancock, Union, Lawrence, Massac, White, Menard, Wabash, Schuyler, Henderson, Edwards, Stark, Alexander, Pulaski, Calhoun, Pope (no posted results located).
+- Locked-Illinois-Formula rebuilt surplus-only (S = -24.769946 x (D/100) + 12.831550; 2022 official n=102; R2 0.238576; mean |resid| 4.756273). Delta-G rows,
+  original change-vs-drop fit and dG chart removed from Locked page and PDF formula section; new surplus chart.
+- New wiki/README.md (plain language; Substack link from Morissa's Nebraska wiki README); sidebar gains README + All States index line.
+- Nebraska-format pages (Home, Reverse-Math, Floor-and-Ceiling, Graphs) regenerated with 80-county data.
+- Verification: 9,879 / 9,879 cells and fields matched across Pass A / Pass B (0 mismatches).

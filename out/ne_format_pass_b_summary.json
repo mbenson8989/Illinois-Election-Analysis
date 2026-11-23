@@ -1,0 +1,63 @@
+{
+ "vote_share_growth_fit": {
+  "n": 80,
+  "m": "10.624531",
+  "b": "-1.653881",
+  "r_squared": "0.593449",
+  "mean_abs_residual_pp": "1.329513",
+  "max_residual_county": "Boone",
+  "max_residual_pp": "4.188150"
+ },
+ "loss_counties": [
+  "Mercer",
+  "Moultrie",
+  "Hamilton",
+  "Gallatin"
+ ],
+ "n_loss": 4,
+ "dG_ceiling": [
+  [
+   "Gallatin",
+   "23.01"
+  ],
+  [
+   "Mercer",
+   "6.31"
+  ],
+  [
+   "Cass",
+   "5.46"
+  ],
+  [
+   "McDonough",
+   "3.87"
+  ],
+  [
+   "Edgar",
+   "3.42"
+  ]
+ ],
+ "dG_floor": [
+  [
+   "McHenry",
+   "-22.05"
+  ],
+  [
+   "Lee",
+   "-19.55"
+  ],
+  [
+   "Boone",
+   "-19.14"
+  ],
+  [
+   "Kankakee",
+   "-18.85"
+  ],
+  [
+   "DuPage",
+   "-17.98"
+  ]
+ ],
+ "n_dG_positive": 10
+}
