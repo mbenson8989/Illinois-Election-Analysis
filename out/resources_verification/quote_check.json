@@ -1,0 +1,5308 @@
+[
+ {
+  "file": "Resources.md",
+  "quote": "registration,",
+  "found_in": [
+   "EO14399",
+   "10 ILCS 5/1-3",
+   "10 ILCS 5/1-3.5"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Resources.md",
+  "quote": "specifically prohibited from disclosure by federal or State law",
+  "found_in": [
+   "5 ILCS 140/7"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Resources.md",
+  "quote": "All Election Authorities",
+  "found_in": [
+   "10 ILCS 5/1-9.2",
+   "10 ILCS 5/1A-55",
+   "10 ILCS 5/4-8.03"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Resources.md",
+  "quote": "Cook County",
+  "found_in": [
+   "10 ILCS 5/1-22",
+   "10 ILCS 5/1A-2",
+   "10 ILCS 5/2A-12"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Resources.md",
+  "quote": "Not listed by Verified Voting.",
+  "found_in": [],
+  "ok": false
+ },
+ {
+  "file": "Resources.md",
+  "quote": "Dominion",
+  "found_in": [],
+  "ok": false
+ },
+ {
+  "file": "Resources.md",
+  "quote": "Liberty Vote (Dominion)",
+  "found_in": [],
+  "ok": false
+ },
+ {
+  "file": "Resources.md",
+  "quote": "unavoidable duty",
+  "found_in": [
+   "EO14399"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Resources.md",
+  "quote": "The United States shall guarantee to every State in this Union a Republican Form of Govern",
+  "found_in": [
+   "Constitution"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Resources.md",
+  "quote": "Ensuring Citizenship Verification and Integrity in Federal Elections",
+  "found_in": [
+   "EO14399"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Resources.md",
+  "quote": "the Federal Government's constitutional obligation to guarantee a republican form of Gover",
+  "found_in": [
+   "EO14399"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Resources.md",
+  "quote": "The Federal Government has an unavoidable duty under Article II of the Constitution of the",
+  "found_in": [
+   "EO14399"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Resources.md",
+  "quote": "unavoidable duty",
+  "found_in": [
+   "EO14399"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Resources.md",
+  "quote": "Public records",
+  "found_in": [
+   "5 ILCS 140/1",
+   "5 ILCS 140/2",
+   "5 ILCS 140/3"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Resources.md",
+  "quote": "Ensuring Citizenship Verification and Integrity in Federal Elections,",
+  "found_in": [
+   "EO14399"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Illinois_Attorney_General_Letter.md",
+  "quote": "The United States shall guarantee to every State in this Union a Republican Form of Govern",
+  "found_in": [
+   "Constitution"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Illinois_Attorney_General_Letter.md",
+  "quote": "Ensuring Citizenship Verification and Integrity in Federal Elections,",
+  "found_in": [
+   "EO14399"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Illinois_Attorney_General_Letter.md",
+  "quote": "the Federal Government's constitutional obligation to guarantee a republican form of Gover",
+  "found_in": [
+   "EO14399"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Illinois_Attorney_General_Letter.md",
+  "quote": "[t]he Federal Government has an unavoidable duty under Article II of the Constitution of t",
+  "found_in": [
+   "EO14399"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Illinois_Attorney_General_Letter.md",
+  "quote": "take Care that the Laws be faithfully executed.",
+  "found_in": [
+   "Constitution"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Illinois_Attorney_General_Letter.md",
+  "quote": "States and localities should preserve, for a 5-year period, all records and materials\u2014excl",
+  "found_in": [
+   "EO14399"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Illinois_Attorney_General_Letter.md",
+  "quote": "should",
+  "found_in": [
+   "EO14399",
+   "Constitution",
+   "5 ILCS 140/1"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Illinois_Attorney_General_Letter.md",
+  "quote": "create any right or benefit, substantive or procedural, enforceable at law or in equity",
+  "found_in": [
+   "EO14399"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Illinois_Attorney_General_Letter.md",
+  "quote": "all persons are entitled to full and complete information regarding the affairs of governm",
+  "found_in": [
+   "5 ILCS 140/1"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Illinois_Attorney_General_Letter.md",
+  "quote": "public records",
+  "found_in": [
+   "5 ILCS 140/1",
+   "5 ILCS 140/2",
+   "5 ILCS 140/3"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Illinois_Attorney_General_Letter.md",
+  "quote": "electronic data processing records, electronic communications, recorded information and al",
+  "found_in": [
+   "5 ILCS 140/2"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Illinois_Attorney_General_Letter.md",
+  "quote": "All records in the custody or possession of a public body are presumed to be open to inspe",
+  "found_in": [
+   "5 ILCS 140/1.2"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Illinois_Attorney_General_Letter.md",
+  "quote": "has the burden of proving by clear and convincing evidence that it is exempt.",
+  "found_in": [
+   "5 ILCS 140/1.2"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Illinois_Attorney_General_Letter.md",
+  "quote": "comply with or deny a request for public records within 5 business days after its receipt ",
+  "found_in": [
+   "5 ILCS 140/3"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Illinois_Attorney_General_Letter.md",
+  "quote": "the reasons for the denial, including a detailed factual basis for the application of any ",
+  "found_in": [
+   "5 ILCS 140/9"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Illinois_Attorney_General_Letter.md",
+  "quote": "[t]he public body shall make the remaining information available for inspection and copyin",
+  "found_in": [
+   "5 ILCS 140/7"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Illinois_Attorney_General_Letter.md",
+  "quote": "cast vote record.",
+  "found_in": [],
+  "ok": false
+ },
+ {
+  "file": "Illinois_Attorney_General_Letter.md",
+  "quote": "[i]nformation specifically prohibited from disclosure by federal or State law or rules and",
+  "found_in": [
+   "5 ILCS 140/7"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Illinois_Attorney_General_Letter.md",
+  "quote": "shall constitute the official return of each precinct.",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15",
+   "10 ILCS 5/24C-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Illinois_Attorney_General_Letter.md",
+  "quote": "retabulate the total number of votes cast in 5% of the precincts within the election juris",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Illinois_Attorney_General_Letter.md",
+  "quote": "the comparisons shall be open to the public.",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Illinois_Attorney_General_Letter.md",
+  "quote": "after the proclamation of results, the election authority must obtain a court order to uns",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Illinois_Attorney_General_Letter.md",
+  "quote": "all material used in testing the program and the programs shall be sealed and retained und",
+  "found_in": [
+   "10 ILCS 5/24B-9",
+   "10 ILCS 5/24C-9"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Illinois_Attorney_General_Letter.md",
+  "quote": "carefully preserve the ballots for 2 months, subject to their examination in a discovery r",
+  "found_in": [
+   "10 ILCS 5/17-20"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Illinois_Attorney_General_Letter.md",
+  "quote": "specifically prohibited from disclosure",
+  "found_in": [
+   "5 ILCS 140/7"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Illinois_Attorney_General_Letter.md",
+  "quote": "Ensuring Citizenship Verification and Integrity in Federal Elections,",
+  "found_in": [
+   "EO14399"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Adams_County_Clerk_Letter.md",
+  "quote": "public records",
+  "found_in": [
+   "5 ILCS 140/1",
+   "5 ILCS 140/2",
+   "5 ILCS 140/3"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Adams_County_Clerk_Letter.md",
+  "quote": "electronic data processing records, electronic communications, recorded information and al",
+  "found_in": [
+   "5 ILCS 140/2"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Adams_County_Clerk_Letter.md",
+  "quote": "shall constitute the official return of each precinct",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15",
+   "10 ILCS 5/24C-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Adams_County_Clerk_Letter.md",
+  "quote": "the comparisons shall be open to the public",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Adams_County_Clerk_Letter.md",
+  "quote": "after the proclamation of results, the election authority must obtain a court order to uns",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Alexander_County_Clerk_Letter.md",
+  "quote": "public records",
+  "found_in": [
+   "5 ILCS 140/1",
+   "5 ILCS 140/2",
+   "5 ILCS 140/3"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Alexander_County_Clerk_Letter.md",
+  "quote": "electronic data processing records, electronic communications, recorded information and al",
+  "found_in": [
+   "5 ILCS 140/2"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Alexander_County_Clerk_Letter.md",
+  "quote": "shall constitute the official return of each precinct",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15",
+   "10 ILCS 5/24C-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Alexander_County_Clerk_Letter.md",
+  "quote": "the comparisons shall be open to the public",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Alexander_County_Clerk_Letter.md",
+  "quote": "after the proclamation of results, the election authority must obtain a court order to uns",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Bond_County_Clerk_Letter.md",
+  "quote": "public records",
+  "found_in": [
+   "5 ILCS 140/1",
+   "5 ILCS 140/2",
+   "5 ILCS 140/3"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Bond_County_Clerk_Letter.md",
+  "quote": "electronic data processing records, electronic communications, recorded information and al",
+  "found_in": [
+   "5 ILCS 140/2"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Bond_County_Clerk_Letter.md",
+  "quote": "shall constitute the official return of each precinct",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15",
+   "10 ILCS 5/24C-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Bond_County_Clerk_Letter.md",
+  "quote": "the comparisons shall be open to the public",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Bond_County_Clerk_Letter.md",
+  "quote": "after the proclamation of results, the election authority must obtain a court order to uns",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Boone_County_Clerk_Letter.md",
+  "quote": "public records",
+  "found_in": [
+   "5 ILCS 140/1",
+   "5 ILCS 140/2",
+   "5 ILCS 140/3"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Boone_County_Clerk_Letter.md",
+  "quote": "electronic data processing records, electronic communications, recorded information and al",
+  "found_in": [
+   "5 ILCS 140/2"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Boone_County_Clerk_Letter.md",
+  "quote": "shall constitute the official return of each precinct",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15",
+   "10 ILCS 5/24C-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Boone_County_Clerk_Letter.md",
+  "quote": "the comparisons shall be open to the public",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Boone_County_Clerk_Letter.md",
+  "quote": "after the proclamation of results, the election authority must obtain a court order to uns",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Brown_County_Clerk_Letter.md",
+  "quote": "public records",
+  "found_in": [
+   "5 ILCS 140/1",
+   "5 ILCS 140/2",
+   "5 ILCS 140/3"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Brown_County_Clerk_Letter.md",
+  "quote": "electronic data processing records, electronic communications, recorded information and al",
+  "found_in": [
+   "5 ILCS 140/2"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Brown_County_Clerk_Letter.md",
+  "quote": "shall constitute the official return of each precinct",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15",
+   "10 ILCS 5/24C-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Brown_County_Clerk_Letter.md",
+  "quote": "the comparisons shall be open to the public",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Brown_County_Clerk_Letter.md",
+  "quote": "after the proclamation of results, the election authority must obtain a court order to uns",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Bureau_County_Clerk_Letter.md",
+  "quote": "public records",
+  "found_in": [
+   "5 ILCS 140/1",
+   "5 ILCS 140/2",
+   "5 ILCS 140/3"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Bureau_County_Clerk_Letter.md",
+  "quote": "electronic data processing records, electronic communications, recorded information and al",
+  "found_in": [
+   "5 ILCS 140/2"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Bureau_County_Clerk_Letter.md",
+  "quote": "shall constitute the official return of each precinct",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15",
+   "10 ILCS 5/24C-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Bureau_County_Clerk_Letter.md",
+  "quote": "the comparisons shall be open to the public",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Bureau_County_Clerk_Letter.md",
+  "quote": "after the proclamation of results, the election authority must obtain a court order to uns",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Calhoun_County_Clerk_Letter.md",
+  "quote": "public records",
+  "found_in": [
+   "5 ILCS 140/1",
+   "5 ILCS 140/2",
+   "5 ILCS 140/3"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Calhoun_County_Clerk_Letter.md",
+  "quote": "electronic data processing records, electronic communications, recorded information and al",
+  "found_in": [
+   "5 ILCS 140/2"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Calhoun_County_Clerk_Letter.md",
+  "quote": "shall constitute the official return of each precinct",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15",
+   "10 ILCS 5/24C-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Calhoun_County_Clerk_Letter.md",
+  "quote": "the comparisons shall be open to the public",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Calhoun_County_Clerk_Letter.md",
+  "quote": "after the proclamation of results, the election authority must obtain a court order to uns",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Carroll_County_Clerk_Letter.md",
+  "quote": "public records",
+  "found_in": [
+   "5 ILCS 140/1",
+   "5 ILCS 140/2",
+   "5 ILCS 140/3"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Carroll_County_Clerk_Letter.md",
+  "quote": "electronic data processing records, electronic communications, recorded information and al",
+  "found_in": [
+   "5 ILCS 140/2"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Carroll_County_Clerk_Letter.md",
+  "quote": "shall constitute the official return of each precinct",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15",
+   "10 ILCS 5/24C-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Carroll_County_Clerk_Letter.md",
+  "quote": "the comparisons shall be open to the public",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Carroll_County_Clerk_Letter.md",
+  "quote": "after the proclamation of results, the election authority must obtain a court order to uns",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Cass_County_Clerk_Letter.md",
+  "quote": "public records",
+  "found_in": [
+   "5 ILCS 140/1",
+   "5 ILCS 140/2",
+   "5 ILCS 140/3"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Cass_County_Clerk_Letter.md",
+  "quote": "electronic data processing records, electronic communications, recorded information and al",
+  "found_in": [
+   "5 ILCS 140/2"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Cass_County_Clerk_Letter.md",
+  "quote": "shall constitute the official return of each precinct",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15",
+   "10 ILCS 5/24C-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Cass_County_Clerk_Letter.md",
+  "quote": "the comparisons shall be open to the public",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Cass_County_Clerk_Letter.md",
+  "quote": "after the proclamation of results, the election authority must obtain a court order to uns",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Champaign_County_Clerk_Letter.md",
+  "quote": "public records",
+  "found_in": [
+   "5 ILCS 140/1",
+   "5 ILCS 140/2",
+   "5 ILCS 140/3"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Champaign_County_Clerk_Letter.md",
+  "quote": "electronic data processing records, electronic communications, recorded information and al",
+  "found_in": [
+   "5 ILCS 140/2"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Champaign_County_Clerk_Letter.md",
+  "quote": "shall constitute the official return of each precinct",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15",
+   "10 ILCS 5/24C-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Champaign_County_Clerk_Letter.md",
+  "quote": "the comparisons shall be open to the public",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Champaign_County_Clerk_Letter.md",
+  "quote": "after the proclamation of results, the election authority must obtain a court order to uns",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Christian_County_Clerk_Letter.md",
+  "quote": "public records",
+  "found_in": [
+   "5 ILCS 140/1",
+   "5 ILCS 140/2",
+   "5 ILCS 140/3"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Christian_County_Clerk_Letter.md",
+  "quote": "electronic data processing records, electronic communications, recorded information and al",
+  "found_in": [
+   "5 ILCS 140/2"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Christian_County_Clerk_Letter.md",
+  "quote": "shall constitute the official return of each precinct",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15",
+   "10 ILCS 5/24C-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Christian_County_Clerk_Letter.md",
+  "quote": "the comparisons shall be open to the public",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Christian_County_Clerk_Letter.md",
+  "quote": "after the proclamation of results, the election authority must obtain a court order to uns",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "City_of_Bloomington_Board_of_Election_Commissioners_Letter.md",
+  "quote": "public records",
+  "found_in": [
+   "5 ILCS 140/1",
+   "5 ILCS 140/2",
+   "5 ILCS 140/3"
+  ],
+  "ok": true
+ },
+ {
+  "file": "City_of_Bloomington_Board_of_Election_Commissioners_Letter.md",
+  "quote": "electronic data processing records, electronic communications, recorded information and al",
+  "found_in": [
+   "5 ILCS 140/2"
+  ],
+  "ok": true
+ },
+ {
+  "file": "City_of_Bloomington_Board_of_Election_Commissioners_Letter.md",
+  "quote": "shall constitute the official return of each precinct",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15",
+   "10 ILCS 5/24C-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "City_of_Bloomington_Board_of_Election_Commissioners_Letter.md",
+  "quote": "the comparisons shall be open to the public",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "City_of_Bloomington_Board_of_Election_Commissioners_Letter.md",
+  "quote": "after the proclamation of results, the election authority must obtain a court order to uns",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "City_of_Chicago_Board_of_Election_Commissioners_Letter.md",
+  "quote": "public records",
+  "found_in": [
+   "5 ILCS 140/1",
+   "5 ILCS 140/2",
+   "5 ILCS 140/3"
+  ],
+  "ok": true
+ },
+ {
+  "file": "City_of_Chicago_Board_of_Election_Commissioners_Letter.md",
+  "quote": "electronic data processing records, electronic communications, recorded information and al",
+  "found_in": [
+   "5 ILCS 140/2"
+  ],
+  "ok": true
+ },
+ {
+  "file": "City_of_Chicago_Board_of_Election_Commissioners_Letter.md",
+  "quote": "shall constitute the official return of each precinct",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15",
+   "10 ILCS 5/24C-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "City_of_Chicago_Board_of_Election_Commissioners_Letter.md",
+  "quote": "the comparisons shall be open to the public",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "City_of_Chicago_Board_of_Election_Commissioners_Letter.md",
+  "quote": "after the proclamation of results, the election authority must obtain a court order to uns",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "City_of_Danville_Board_of_Election_Commissioners_Letter.md",
+  "quote": "public records",
+  "found_in": [
+   "5 ILCS 140/1",
+   "5 ILCS 140/2",
+   "5 ILCS 140/3"
+  ],
+  "ok": true
+ },
+ {
+  "file": "City_of_Danville_Board_of_Election_Commissioners_Letter.md",
+  "quote": "electronic data processing records, electronic communications, recorded information and al",
+  "found_in": [
+   "5 ILCS 140/2"
+  ],
+  "ok": true
+ },
+ {
+  "file": "City_of_Danville_Board_of_Election_Commissioners_Letter.md",
+  "quote": "shall constitute the official return of each precinct",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15",
+   "10 ILCS 5/24C-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "City_of_Danville_Board_of_Election_Commissioners_Letter.md",
+  "quote": "the comparisons shall be open to the public",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "City_of_Danville_Board_of_Election_Commissioners_Letter.md",
+  "quote": "after the proclamation of results, the election authority must obtain a court order to uns",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "City_of_East_St_Louis_Board_of_Election_Commissioners_Letter.md",
+  "quote": "public records",
+  "found_in": [
+   "5 ILCS 140/1",
+   "5 ILCS 140/2",
+   "5 ILCS 140/3"
+  ],
+  "ok": true
+ },
+ {
+  "file": "City_of_East_St_Louis_Board_of_Election_Commissioners_Letter.md",
+  "quote": "electronic data processing records, electronic communications, recorded information and al",
+  "found_in": [
+   "5 ILCS 140/2"
+  ],
+  "ok": true
+ },
+ {
+  "file": "City_of_East_St_Louis_Board_of_Election_Commissioners_Letter.md",
+  "quote": "shall constitute the official return of each precinct",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15",
+   "10 ILCS 5/24C-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "City_of_East_St_Louis_Board_of_Election_Commissioners_Letter.md",
+  "quote": "the comparisons shall be open to the public",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "City_of_East_St_Louis_Board_of_Election_Commissioners_Letter.md",
+  "quote": "after the proclamation of results, the election authority must obtain a court order to uns",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "City_of_Galesburg_Board_of_Election_Commissioners_Letter.md",
+  "quote": "public records",
+  "found_in": [
+   "5 ILCS 140/1",
+   "5 ILCS 140/2",
+   "5 ILCS 140/3"
+  ],
+  "ok": true
+ },
+ {
+  "file": "City_of_Galesburg_Board_of_Election_Commissioners_Letter.md",
+  "quote": "electronic data processing records, electronic communications, recorded information and al",
+  "found_in": [
+   "5 ILCS 140/2"
+  ],
+  "ok": true
+ },
+ {
+  "file": "City_of_Galesburg_Board_of_Election_Commissioners_Letter.md",
+  "quote": "shall constitute the official return of each precinct",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15",
+   "10 ILCS 5/24C-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "City_of_Galesburg_Board_of_Election_Commissioners_Letter.md",
+  "quote": "the comparisons shall be open to the public",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "City_of_Galesburg_Board_of_Election_Commissioners_Letter.md",
+  "quote": "after the proclamation of results, the election authority must obtain a court order to uns",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "City_of_Rockford_Board_of_Election_Commissioners_Letter.md",
+  "quote": "public records",
+  "found_in": [
+   "5 ILCS 140/1",
+   "5 ILCS 140/2",
+   "5 ILCS 140/3"
+  ],
+  "ok": true
+ },
+ {
+  "file": "City_of_Rockford_Board_of_Election_Commissioners_Letter.md",
+  "quote": "electronic data processing records, electronic communications, recorded information and al",
+  "found_in": [
+   "5 ILCS 140/2"
+  ],
+  "ok": true
+ },
+ {
+  "file": "City_of_Rockford_Board_of_Election_Commissioners_Letter.md",
+  "quote": "shall constitute the official return of each precinct",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15",
+   "10 ILCS 5/24C-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "City_of_Rockford_Board_of_Election_Commissioners_Letter.md",
+  "quote": "the comparisons shall be open to the public",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "City_of_Rockford_Board_of_Election_Commissioners_Letter.md",
+  "quote": "after the proclamation of results, the election authority must obtain a court order to uns",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Clark_County_Clerk_Letter.md",
+  "quote": "public records",
+  "found_in": [
+   "5 ILCS 140/1",
+   "5 ILCS 140/2",
+   "5 ILCS 140/3"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Clark_County_Clerk_Letter.md",
+  "quote": "electronic data processing records, electronic communications, recorded information and al",
+  "found_in": [
+   "5 ILCS 140/2"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Clark_County_Clerk_Letter.md",
+  "quote": "shall constitute the official return of each precinct",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15",
+   "10 ILCS 5/24C-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Clark_County_Clerk_Letter.md",
+  "quote": "the comparisons shall be open to the public",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Clark_County_Clerk_Letter.md",
+  "quote": "after the proclamation of results, the election authority must obtain a court order to uns",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Clay_County_Clerk_Letter.md",
+  "quote": "public records",
+  "found_in": [
+   "5 ILCS 140/1",
+   "5 ILCS 140/2",
+   "5 ILCS 140/3"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Clay_County_Clerk_Letter.md",
+  "quote": "electronic data processing records, electronic communications, recorded information and al",
+  "found_in": [
+   "5 ILCS 140/2"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Clay_County_Clerk_Letter.md",
+  "quote": "shall constitute the official return of each precinct",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15",
+   "10 ILCS 5/24C-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Clay_County_Clerk_Letter.md",
+  "quote": "the comparisons shall be open to the public",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Clay_County_Clerk_Letter.md",
+  "quote": "after the proclamation of results, the election authority must obtain a court order to uns",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Clinton_County_Clerk_Letter.md",
+  "quote": "public records",
+  "found_in": [
+   "5 ILCS 140/1",
+   "5 ILCS 140/2",
+   "5 ILCS 140/3"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Clinton_County_Clerk_Letter.md",
+  "quote": "electronic data processing records, electronic communications, recorded information and al",
+  "found_in": [
+   "5 ILCS 140/2"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Clinton_County_Clerk_Letter.md",
+  "quote": "shall constitute the official return of each precinct",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15",
+   "10 ILCS 5/24C-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Clinton_County_Clerk_Letter.md",
+  "quote": "the comparisons shall be open to the public",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Clinton_County_Clerk_Letter.md",
+  "quote": "after the proclamation of results, the election authority must obtain a court order to uns",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Coles_County_Clerk_Letter.md",
+  "quote": "public records",
+  "found_in": [
+   "5 ILCS 140/1",
+   "5 ILCS 140/2",
+   "5 ILCS 140/3"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Coles_County_Clerk_Letter.md",
+  "quote": "electronic data processing records, electronic communications, recorded information and al",
+  "found_in": [
+   "5 ILCS 140/2"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Coles_County_Clerk_Letter.md",
+  "quote": "shall constitute the official return of each precinct",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15",
+   "10 ILCS 5/24C-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Coles_County_Clerk_Letter.md",
+  "quote": "the comparisons shall be open to the public",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Coles_County_Clerk_Letter.md",
+  "quote": "after the proclamation of results, the election authority must obtain a court order to uns",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Cook_County_Clerk_Letter.md",
+  "quote": "public records",
+  "found_in": [
+   "5 ILCS 140/1",
+   "5 ILCS 140/2",
+   "5 ILCS 140/3"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Cook_County_Clerk_Letter.md",
+  "quote": "electronic data processing records, electronic communications, recorded information and al",
+  "found_in": [
+   "5 ILCS 140/2"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Cook_County_Clerk_Letter.md",
+  "quote": "shall constitute the official return of each precinct",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15",
+   "10 ILCS 5/24C-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Cook_County_Clerk_Letter.md",
+  "quote": "the comparisons shall be open to the public",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Cook_County_Clerk_Letter.md",
+  "quote": "after the proclamation of results, the election authority must obtain a court order to uns",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Crawford_County_Clerk_Letter.md",
+  "quote": "public records",
+  "found_in": [
+   "5 ILCS 140/1",
+   "5 ILCS 140/2",
+   "5 ILCS 140/3"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Crawford_County_Clerk_Letter.md",
+  "quote": "electronic data processing records, electronic communications, recorded information and al",
+  "found_in": [
+   "5 ILCS 140/2"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Crawford_County_Clerk_Letter.md",
+  "quote": "shall constitute the official return of each precinct",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15",
+   "10 ILCS 5/24C-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Crawford_County_Clerk_Letter.md",
+  "quote": "the comparisons shall be open to the public",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Crawford_County_Clerk_Letter.md",
+  "quote": "after the proclamation of results, the election authority must obtain a court order to uns",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Cumberland_County_Clerk_Letter.md",
+  "quote": "public records",
+  "found_in": [
+   "5 ILCS 140/1",
+   "5 ILCS 140/2",
+   "5 ILCS 140/3"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Cumberland_County_Clerk_Letter.md",
+  "quote": "electronic data processing records, electronic communications, recorded information and al",
+  "found_in": [
+   "5 ILCS 140/2"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Cumberland_County_Clerk_Letter.md",
+  "quote": "shall constitute the official return of each precinct",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15",
+   "10 ILCS 5/24C-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Cumberland_County_Clerk_Letter.md",
+  "quote": "the comparisons shall be open to the public",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Cumberland_County_Clerk_Letter.md",
+  "quote": "after the proclamation of results, the election authority must obtain a court order to uns",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "DeKalb_County_Clerk_Letter.md",
+  "quote": "public records",
+  "found_in": [
+   "5 ILCS 140/1",
+   "5 ILCS 140/2",
+   "5 ILCS 140/3"
+  ],
+  "ok": true
+ },
+ {
+  "file": "DeKalb_County_Clerk_Letter.md",
+  "quote": "electronic data processing records, electronic communications, recorded information and al",
+  "found_in": [
+   "5 ILCS 140/2"
+  ],
+  "ok": true
+ },
+ {
+  "file": "DeKalb_County_Clerk_Letter.md",
+  "quote": "shall constitute the official return of each precinct",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15",
+   "10 ILCS 5/24C-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "DeKalb_County_Clerk_Letter.md",
+  "quote": "the comparisons shall be open to the public",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "DeKalb_County_Clerk_Letter.md",
+  "quote": "after the proclamation of results, the election authority must obtain a court order to uns",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "De_Witt_County_Clerk_Letter.md",
+  "quote": "public records",
+  "found_in": [
+   "5 ILCS 140/1",
+   "5 ILCS 140/2",
+   "5 ILCS 140/3"
+  ],
+  "ok": true
+ },
+ {
+  "file": "De_Witt_County_Clerk_Letter.md",
+  "quote": "electronic data processing records, electronic communications, recorded information and al",
+  "found_in": [
+   "5 ILCS 140/2"
+  ],
+  "ok": true
+ },
+ {
+  "file": "De_Witt_County_Clerk_Letter.md",
+  "quote": "shall constitute the official return of each precinct",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15",
+   "10 ILCS 5/24C-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "De_Witt_County_Clerk_Letter.md",
+  "quote": "the comparisons shall be open to the public",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "De_Witt_County_Clerk_Letter.md",
+  "quote": "after the proclamation of results, the election authority must obtain a court order to uns",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Douglas_County_Clerk_Letter.md",
+  "quote": "public records",
+  "found_in": [
+   "5 ILCS 140/1",
+   "5 ILCS 140/2",
+   "5 ILCS 140/3"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Douglas_County_Clerk_Letter.md",
+  "quote": "electronic data processing records, electronic communications, recorded information and al",
+  "found_in": [
+   "5 ILCS 140/2"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Douglas_County_Clerk_Letter.md",
+  "quote": "shall constitute the official return of each precinct",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15",
+   "10 ILCS 5/24C-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Douglas_County_Clerk_Letter.md",
+  "quote": "the comparisons shall be open to the public",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Douglas_County_Clerk_Letter.md",
+  "quote": "after the proclamation of results, the election authority must obtain a court order to uns",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "DuPage_County_Clerk_Letter.md",
+  "quote": "public records",
+  "found_in": [
+   "5 ILCS 140/1",
+   "5 ILCS 140/2",
+   "5 ILCS 140/3"
+  ],
+  "ok": true
+ },
+ {
+  "file": "DuPage_County_Clerk_Letter.md",
+  "quote": "electronic data processing records, electronic communications, recorded information and al",
+  "found_in": [
+   "5 ILCS 140/2"
+  ],
+  "ok": true
+ },
+ {
+  "file": "DuPage_County_Clerk_Letter.md",
+  "quote": "shall constitute the official return of each precinct",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15",
+   "10 ILCS 5/24C-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "DuPage_County_Clerk_Letter.md",
+  "quote": "the comparisons shall be open to the public",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "DuPage_County_Clerk_Letter.md",
+  "quote": "after the proclamation of results, the election authority must obtain a court order to uns",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Edgar_County_Clerk_Letter.md",
+  "quote": "public records",
+  "found_in": [
+   "5 ILCS 140/1",
+   "5 ILCS 140/2",
+   "5 ILCS 140/3"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Edgar_County_Clerk_Letter.md",
+  "quote": "electronic data processing records, electronic communications, recorded information and al",
+  "found_in": [
+   "5 ILCS 140/2"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Edgar_County_Clerk_Letter.md",
+  "quote": "shall constitute the official return of each precinct",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15",
+   "10 ILCS 5/24C-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Edgar_County_Clerk_Letter.md",
+  "quote": "the comparisons shall be open to the public",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Edgar_County_Clerk_Letter.md",
+  "quote": "after the proclamation of results, the election authority must obtain a court order to uns",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Edwards_County_Clerk_Letter.md",
+  "quote": "public records",
+  "found_in": [
+   "5 ILCS 140/1",
+   "5 ILCS 140/2",
+   "5 ILCS 140/3"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Edwards_County_Clerk_Letter.md",
+  "quote": "electronic data processing records, electronic communications, recorded information and al",
+  "found_in": [
+   "5 ILCS 140/2"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Edwards_County_Clerk_Letter.md",
+  "quote": "shall constitute the official return of each precinct",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15",
+   "10 ILCS 5/24C-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Edwards_County_Clerk_Letter.md",
+  "quote": "the comparisons shall be open to the public",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Edwards_County_Clerk_Letter.md",
+  "quote": "after the proclamation of results, the election authority must obtain a court order to uns",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Effingham_County_Clerk_Letter.md",
+  "quote": "public records",
+  "found_in": [
+   "5 ILCS 140/1",
+   "5 ILCS 140/2",
+   "5 ILCS 140/3"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Effingham_County_Clerk_Letter.md",
+  "quote": "electronic data processing records, electronic communications, recorded information and al",
+  "found_in": [
+   "5 ILCS 140/2"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Effingham_County_Clerk_Letter.md",
+  "quote": "shall constitute the official return of each precinct",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15",
+   "10 ILCS 5/24C-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Effingham_County_Clerk_Letter.md",
+  "quote": "the comparisons shall be open to the public",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Effingham_County_Clerk_Letter.md",
+  "quote": "after the proclamation of results, the election authority must obtain a court order to uns",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Fayette_County_Clerk_Letter.md",
+  "quote": "public records",
+  "found_in": [
+   "5 ILCS 140/1",
+   "5 ILCS 140/2",
+   "5 ILCS 140/3"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Fayette_County_Clerk_Letter.md",
+  "quote": "electronic data processing records, electronic communications, recorded information and al",
+  "found_in": [
+   "5 ILCS 140/2"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Fayette_County_Clerk_Letter.md",
+  "quote": "shall constitute the official return of each precinct",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15",
+   "10 ILCS 5/24C-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Fayette_County_Clerk_Letter.md",
+  "quote": "the comparisons shall be open to the public",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Fayette_County_Clerk_Letter.md",
+  "quote": "after the proclamation of results, the election authority must obtain a court order to uns",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Ford_County_Clerk_Letter.md",
+  "quote": "public records",
+  "found_in": [
+   "5 ILCS 140/1",
+   "5 ILCS 140/2",
+   "5 ILCS 140/3"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Ford_County_Clerk_Letter.md",
+  "quote": "electronic data processing records, electronic communications, recorded information and al",
+  "found_in": [
+   "5 ILCS 140/2"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Ford_County_Clerk_Letter.md",
+  "quote": "shall constitute the official return of each precinct",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15",
+   "10 ILCS 5/24C-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Ford_County_Clerk_Letter.md",
+  "quote": "the comparisons shall be open to the public",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Ford_County_Clerk_Letter.md",
+  "quote": "after the proclamation of results, the election authority must obtain a court order to uns",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Franklin_County_Clerk_Letter.md",
+  "quote": "public records",
+  "found_in": [
+   "5 ILCS 140/1",
+   "5 ILCS 140/2",
+   "5 ILCS 140/3"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Franklin_County_Clerk_Letter.md",
+  "quote": "electronic data processing records, electronic communications, recorded information and al",
+  "found_in": [
+   "5 ILCS 140/2"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Franklin_County_Clerk_Letter.md",
+  "quote": "shall constitute the official return of each precinct",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15",
+   "10 ILCS 5/24C-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Franklin_County_Clerk_Letter.md",
+  "quote": "the comparisons shall be open to the public",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Franklin_County_Clerk_Letter.md",
+  "quote": "after the proclamation of results, the election authority must obtain a court order to uns",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Fulton_County_Clerk_Letter.md",
+  "quote": "public records",
+  "found_in": [
+   "5 ILCS 140/1",
+   "5 ILCS 140/2",
+   "5 ILCS 140/3"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Fulton_County_Clerk_Letter.md",
+  "quote": "electronic data processing records, electronic communications, recorded information and al",
+  "found_in": [
+   "5 ILCS 140/2"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Fulton_County_Clerk_Letter.md",
+  "quote": "shall constitute the official return of each precinct",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15",
+   "10 ILCS 5/24C-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Fulton_County_Clerk_Letter.md",
+  "quote": "the comparisons shall be open to the public",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Fulton_County_Clerk_Letter.md",
+  "quote": "after the proclamation of results, the election authority must obtain a court order to uns",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Gallatin_County_Clerk_Letter.md",
+  "quote": "public records",
+  "found_in": [
+   "5 ILCS 140/1",
+   "5 ILCS 140/2",
+   "5 ILCS 140/3"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Gallatin_County_Clerk_Letter.md",
+  "quote": "electronic data processing records, electronic communications, recorded information and al",
+  "found_in": [
+   "5 ILCS 140/2"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Gallatin_County_Clerk_Letter.md",
+  "quote": "shall constitute the official return of each precinct",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15",
+   "10 ILCS 5/24C-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Gallatin_County_Clerk_Letter.md",
+  "quote": "the comparisons shall be open to the public",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Gallatin_County_Clerk_Letter.md",
+  "quote": "after the proclamation of results, the election authority must obtain a court order to uns",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Greene_County_Clerk_Letter.md",
+  "quote": "public records",
+  "found_in": [
+   "5 ILCS 140/1",
+   "5 ILCS 140/2",
+   "5 ILCS 140/3"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Greene_County_Clerk_Letter.md",
+  "quote": "electronic data processing records, electronic communications, recorded information and al",
+  "found_in": [
+   "5 ILCS 140/2"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Greene_County_Clerk_Letter.md",
+  "quote": "shall constitute the official return of each precinct",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15",
+   "10 ILCS 5/24C-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Greene_County_Clerk_Letter.md",
+  "quote": "the comparisons shall be open to the public",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Greene_County_Clerk_Letter.md",
+  "quote": "after the proclamation of results, the election authority must obtain a court order to uns",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Grundy_County_Clerk_Letter.md",
+  "quote": "public records",
+  "found_in": [
+   "5 ILCS 140/1",
+   "5 ILCS 140/2",
+   "5 ILCS 140/3"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Grundy_County_Clerk_Letter.md",
+  "quote": "electronic data processing records, electronic communications, recorded information and al",
+  "found_in": [
+   "5 ILCS 140/2"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Grundy_County_Clerk_Letter.md",
+  "quote": "shall constitute the official return of each precinct",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15",
+   "10 ILCS 5/24C-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Grundy_County_Clerk_Letter.md",
+  "quote": "the comparisons shall be open to the public",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Grundy_County_Clerk_Letter.md",
+  "quote": "after the proclamation of results, the election authority must obtain a court order to uns",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Hamilton_County_Clerk_Letter.md",
+  "quote": "public records",
+  "found_in": [
+   "5 ILCS 140/1",
+   "5 ILCS 140/2",
+   "5 ILCS 140/3"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Hamilton_County_Clerk_Letter.md",
+  "quote": "electronic data processing records, electronic communications, recorded information and al",
+  "found_in": [
+   "5 ILCS 140/2"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Hamilton_County_Clerk_Letter.md",
+  "quote": "shall constitute the official return of each precinct",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15",
+   "10 ILCS 5/24C-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Hamilton_County_Clerk_Letter.md",
+  "quote": "the comparisons shall be open to the public",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Hamilton_County_Clerk_Letter.md",
+  "quote": "after the proclamation of results, the election authority must obtain a court order to uns",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Hancock_County_Clerk_Letter.md",
+  "quote": "public records",
+  "found_in": [
+   "5 ILCS 140/1",
+   "5 ILCS 140/2",
+   "5 ILCS 140/3"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Hancock_County_Clerk_Letter.md",
+  "quote": "electronic data processing records, electronic communications, recorded information and al",
+  "found_in": [
+   "5 ILCS 140/2"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Hancock_County_Clerk_Letter.md",
+  "quote": "shall constitute the official return of each precinct",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15",
+   "10 ILCS 5/24C-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Hancock_County_Clerk_Letter.md",
+  "quote": "the comparisons shall be open to the public",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Hancock_County_Clerk_Letter.md",
+  "quote": "after the proclamation of results, the election authority must obtain a court order to uns",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Hardin_County_Clerk_Letter.md",
+  "quote": "public records",
+  "found_in": [
+   "5 ILCS 140/1",
+   "5 ILCS 140/2",
+   "5 ILCS 140/3"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Hardin_County_Clerk_Letter.md",
+  "quote": "electronic data processing records, electronic communications, recorded information and al",
+  "found_in": [
+   "5 ILCS 140/2"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Hardin_County_Clerk_Letter.md",
+  "quote": "shall constitute the official return of each precinct",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15",
+   "10 ILCS 5/24C-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Hardin_County_Clerk_Letter.md",
+  "quote": "the comparisons shall be open to the public",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Hardin_County_Clerk_Letter.md",
+  "quote": "after the proclamation of results, the election authority must obtain a court order to uns",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Henderson_County_Clerk_Letter.md",
+  "quote": "public records",
+  "found_in": [
+   "5 ILCS 140/1",
+   "5 ILCS 140/2",
+   "5 ILCS 140/3"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Henderson_County_Clerk_Letter.md",
+  "quote": "electronic data processing records, electronic communications, recorded information and al",
+  "found_in": [
+   "5 ILCS 140/2"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Henderson_County_Clerk_Letter.md",
+  "quote": "shall constitute the official return of each precinct",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15",
+   "10 ILCS 5/24C-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Henderson_County_Clerk_Letter.md",
+  "quote": "the comparisons shall be open to the public",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Henderson_County_Clerk_Letter.md",
+  "quote": "after the proclamation of results, the election authority must obtain a court order to uns",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Henry_County_Clerk_Letter.md",
+  "quote": "public records",
+  "found_in": [
+   "5 ILCS 140/1",
+   "5 ILCS 140/2",
+   "5 ILCS 140/3"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Henry_County_Clerk_Letter.md",
+  "quote": "electronic data processing records, electronic communications, recorded information and al",
+  "found_in": [
+   "5 ILCS 140/2"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Henry_County_Clerk_Letter.md",
+  "quote": "shall constitute the official return of each precinct",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15",
+   "10 ILCS 5/24C-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Henry_County_Clerk_Letter.md",
+  "quote": "the comparisons shall be open to the public",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Henry_County_Clerk_Letter.md",
+  "quote": "after the proclamation of results, the election authority must obtain a court order to uns",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Iroquois_County_Clerk_Letter.md",
+  "quote": "public records",
+  "found_in": [
+   "5 ILCS 140/1",
+   "5 ILCS 140/2",
+   "5 ILCS 140/3"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Iroquois_County_Clerk_Letter.md",
+  "quote": "electronic data processing records, electronic communications, recorded information and al",
+  "found_in": [
+   "5 ILCS 140/2"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Iroquois_County_Clerk_Letter.md",
+  "quote": "shall constitute the official return of each precinct",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15",
+   "10 ILCS 5/24C-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Iroquois_County_Clerk_Letter.md",
+  "quote": "the comparisons shall be open to the public",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Iroquois_County_Clerk_Letter.md",
+  "quote": "after the proclamation of results, the election authority must obtain a court order to uns",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Jackson_County_Clerk_Letter.md",
+  "quote": "public records",
+  "found_in": [
+   "5 ILCS 140/1",
+   "5 ILCS 140/2",
+   "5 ILCS 140/3"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Jackson_County_Clerk_Letter.md",
+  "quote": "electronic data processing records, electronic communications, recorded information and al",
+  "found_in": [
+   "5 ILCS 140/2"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Jackson_County_Clerk_Letter.md",
+  "quote": "shall constitute the official return of each precinct",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15",
+   "10 ILCS 5/24C-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Jackson_County_Clerk_Letter.md",
+  "quote": "the comparisons shall be open to the public",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Jackson_County_Clerk_Letter.md",
+  "quote": "after the proclamation of results, the election authority must obtain a court order to uns",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Jasper_County_Clerk_Letter.md",
+  "quote": "public records",
+  "found_in": [
+   "5 ILCS 140/1",
+   "5 ILCS 140/2",
+   "5 ILCS 140/3"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Jasper_County_Clerk_Letter.md",
+  "quote": "electronic data processing records, electronic communications, recorded information and al",
+  "found_in": [
+   "5 ILCS 140/2"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Jasper_County_Clerk_Letter.md",
+  "quote": "shall constitute the official return of each precinct",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15",
+   "10 ILCS 5/24C-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Jasper_County_Clerk_Letter.md",
+  "quote": "the comparisons shall be open to the public",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Jasper_County_Clerk_Letter.md",
+  "quote": "after the proclamation of results, the election authority must obtain a court order to uns",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Jefferson_County_Clerk_Letter.md",
+  "quote": "public records",
+  "found_in": [
+   "5 ILCS 140/1",
+   "5 ILCS 140/2",
+   "5 ILCS 140/3"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Jefferson_County_Clerk_Letter.md",
+  "quote": "electronic data processing records, electronic communications, recorded information and al",
+  "found_in": [
+   "5 ILCS 140/2"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Jefferson_County_Clerk_Letter.md",
+  "quote": "shall constitute the official return of each precinct",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15",
+   "10 ILCS 5/24C-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Jefferson_County_Clerk_Letter.md",
+  "quote": "the comparisons shall be open to the public",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Jefferson_County_Clerk_Letter.md",
+  "quote": "after the proclamation of results, the election authority must obtain a court order to uns",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Jersey_County_Clerk_Letter.md",
+  "quote": "public records",
+  "found_in": [
+   "5 ILCS 140/1",
+   "5 ILCS 140/2",
+   "5 ILCS 140/3"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Jersey_County_Clerk_Letter.md",
+  "quote": "electronic data processing records, electronic communications, recorded information and al",
+  "found_in": [
+   "5 ILCS 140/2"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Jersey_County_Clerk_Letter.md",
+  "quote": "shall constitute the official return of each precinct",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15",
+   "10 ILCS 5/24C-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Jersey_County_Clerk_Letter.md",
+  "quote": "the comparisons shall be open to the public",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Jersey_County_Clerk_Letter.md",
+  "quote": "after the proclamation of results, the election authority must obtain a court order to uns",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Jo_Daviess_County_Clerk_Letter.md",
+  "quote": "public records",
+  "found_in": [
+   "5 ILCS 140/1",
+   "5 ILCS 140/2",
+   "5 ILCS 140/3"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Jo_Daviess_County_Clerk_Letter.md",
+  "quote": "electronic data processing records, electronic communications, recorded information and al",
+  "found_in": [
+   "5 ILCS 140/2"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Jo_Daviess_County_Clerk_Letter.md",
+  "quote": "shall constitute the official return of each precinct",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15",
+   "10 ILCS 5/24C-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Jo_Daviess_County_Clerk_Letter.md",
+  "quote": "the comparisons shall be open to the public",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Jo_Daviess_County_Clerk_Letter.md",
+  "quote": "after the proclamation of results, the election authority must obtain a court order to uns",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Johnson_County_Clerk_Letter.md",
+  "quote": "public records",
+  "found_in": [
+   "5 ILCS 140/1",
+   "5 ILCS 140/2",
+   "5 ILCS 140/3"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Johnson_County_Clerk_Letter.md",
+  "quote": "electronic data processing records, electronic communications, recorded information and al",
+  "found_in": [
+   "5 ILCS 140/2"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Johnson_County_Clerk_Letter.md",
+  "quote": "shall constitute the official return of each precinct",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15",
+   "10 ILCS 5/24C-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Johnson_County_Clerk_Letter.md",
+  "quote": "the comparisons shall be open to the public",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Johnson_County_Clerk_Letter.md",
+  "quote": "after the proclamation of results, the election authority must obtain a court order to uns",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Kane_County_Clerk_Letter.md",
+  "quote": "public records",
+  "found_in": [
+   "5 ILCS 140/1",
+   "5 ILCS 140/2",
+   "5 ILCS 140/3"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Kane_County_Clerk_Letter.md",
+  "quote": "electronic data processing records, electronic communications, recorded information and al",
+  "found_in": [
+   "5 ILCS 140/2"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Kane_County_Clerk_Letter.md",
+  "quote": "shall constitute the official return of each precinct",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15",
+   "10 ILCS 5/24C-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Kane_County_Clerk_Letter.md",
+  "quote": "the comparisons shall be open to the public",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Kane_County_Clerk_Letter.md",
+  "quote": "after the proclamation of results, the election authority must obtain a court order to uns",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Kankakee_County_Clerk_Letter.md",
+  "quote": "public records",
+  "found_in": [
+   "5 ILCS 140/1",
+   "5 ILCS 140/2",
+   "5 ILCS 140/3"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Kankakee_County_Clerk_Letter.md",
+  "quote": "electronic data processing records, electronic communications, recorded information and al",
+  "found_in": [
+   "5 ILCS 140/2"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Kankakee_County_Clerk_Letter.md",
+  "quote": "shall constitute the official return of each precinct",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15",
+   "10 ILCS 5/24C-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Kankakee_County_Clerk_Letter.md",
+  "quote": "the comparisons shall be open to the public",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Kankakee_County_Clerk_Letter.md",
+  "quote": "after the proclamation of results, the election authority must obtain a court order to uns",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Kendall_County_Clerk_Letter.md",
+  "quote": "public records",
+  "found_in": [
+   "5 ILCS 140/1",
+   "5 ILCS 140/2",
+   "5 ILCS 140/3"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Kendall_County_Clerk_Letter.md",
+  "quote": "electronic data processing records, electronic communications, recorded information and al",
+  "found_in": [
+   "5 ILCS 140/2"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Kendall_County_Clerk_Letter.md",
+  "quote": "shall constitute the official return of each precinct",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15",
+   "10 ILCS 5/24C-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Kendall_County_Clerk_Letter.md",
+  "quote": "the comparisons shall be open to the public",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Kendall_County_Clerk_Letter.md",
+  "quote": "after the proclamation of results, the election authority must obtain a court order to uns",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Knox_County_Clerk_Letter.md",
+  "quote": "public records",
+  "found_in": [
+   "5 ILCS 140/1",
+   "5 ILCS 140/2",
+   "5 ILCS 140/3"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Knox_County_Clerk_Letter.md",
+  "quote": "electronic data processing records, electronic communications, recorded information and al",
+  "found_in": [
+   "5 ILCS 140/2"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Knox_County_Clerk_Letter.md",
+  "quote": "shall constitute the official return of each precinct",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15",
+   "10 ILCS 5/24C-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Knox_County_Clerk_Letter.md",
+  "quote": "the comparisons shall be open to the public",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Knox_County_Clerk_Letter.md",
+  "quote": "after the proclamation of results, the election authority must obtain a court order to uns",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "LaSalle_County_Clerk_Letter.md",
+  "quote": "public records",
+  "found_in": [
+   "5 ILCS 140/1",
+   "5 ILCS 140/2",
+   "5 ILCS 140/3"
+  ],
+  "ok": true
+ },
+ {
+  "file": "LaSalle_County_Clerk_Letter.md",
+  "quote": "electronic data processing records, electronic communications, recorded information and al",
+  "found_in": [
+   "5 ILCS 140/2"
+  ],
+  "ok": true
+ },
+ {
+  "file": "LaSalle_County_Clerk_Letter.md",
+  "quote": "shall constitute the official return of each precinct",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15",
+   "10 ILCS 5/24C-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "LaSalle_County_Clerk_Letter.md",
+  "quote": "the comparisons shall be open to the public",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "LaSalle_County_Clerk_Letter.md",
+  "quote": "after the proclamation of results, the election authority must obtain a court order to uns",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Lake_County_Clerk_Letter.md",
+  "quote": "public records",
+  "found_in": [
+   "5 ILCS 140/1",
+   "5 ILCS 140/2",
+   "5 ILCS 140/3"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Lake_County_Clerk_Letter.md",
+  "quote": "electronic data processing records, electronic communications, recorded information and al",
+  "found_in": [
+   "5 ILCS 140/2"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Lake_County_Clerk_Letter.md",
+  "quote": "shall constitute the official return of each precinct",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15",
+   "10 ILCS 5/24C-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Lake_County_Clerk_Letter.md",
+  "quote": "the comparisons shall be open to the public",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Lake_County_Clerk_Letter.md",
+  "quote": "after the proclamation of results, the election authority must obtain a court order to uns",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Lawrence_County_Clerk_Letter.md",
+  "quote": "public records",
+  "found_in": [
+   "5 ILCS 140/1",
+   "5 ILCS 140/2",
+   "5 ILCS 140/3"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Lawrence_County_Clerk_Letter.md",
+  "quote": "electronic data processing records, electronic communications, recorded information and al",
+  "found_in": [
+   "5 ILCS 140/2"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Lawrence_County_Clerk_Letter.md",
+  "quote": "shall constitute the official return of each precinct",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15",
+   "10 ILCS 5/24C-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Lawrence_County_Clerk_Letter.md",
+  "quote": "the comparisons shall be open to the public",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Lawrence_County_Clerk_Letter.md",
+  "quote": "after the proclamation of results, the election authority must obtain a court order to uns",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Lee_County_Clerk_Letter.md",
+  "quote": "public records",
+  "found_in": [
+   "5 ILCS 140/1",
+   "5 ILCS 140/2",
+   "5 ILCS 140/3"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Lee_County_Clerk_Letter.md",
+  "quote": "electronic data processing records, electronic communications, recorded information and al",
+  "found_in": [
+   "5 ILCS 140/2"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Lee_County_Clerk_Letter.md",
+  "quote": "shall constitute the official return of each precinct",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15",
+   "10 ILCS 5/24C-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Lee_County_Clerk_Letter.md",
+  "quote": "the comparisons shall be open to the public",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Lee_County_Clerk_Letter.md",
+  "quote": "after the proclamation of results, the election authority must obtain a court order to uns",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Livingston_County_Clerk_Letter.md",
+  "quote": "public records",
+  "found_in": [
+   "5 ILCS 140/1",
+   "5 ILCS 140/2",
+   "5 ILCS 140/3"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Livingston_County_Clerk_Letter.md",
+  "quote": "electronic data processing records, electronic communications, recorded information and al",
+  "found_in": [
+   "5 ILCS 140/2"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Livingston_County_Clerk_Letter.md",
+  "quote": "shall constitute the official return of each precinct",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15",
+   "10 ILCS 5/24C-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Livingston_County_Clerk_Letter.md",
+  "quote": "the comparisons shall be open to the public",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Livingston_County_Clerk_Letter.md",
+  "quote": "after the proclamation of results, the election authority must obtain a court order to uns",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Logan_County_Clerk_Letter.md",
+  "quote": "public records",
+  "found_in": [
+   "5 ILCS 140/1",
+   "5 ILCS 140/2",
+   "5 ILCS 140/3"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Logan_County_Clerk_Letter.md",
+  "quote": "electronic data processing records, electronic communications, recorded information and al",
+  "found_in": [
+   "5 ILCS 140/2"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Logan_County_Clerk_Letter.md",
+  "quote": "shall constitute the official return of each precinct",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15",
+   "10 ILCS 5/24C-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Logan_County_Clerk_Letter.md",
+  "quote": "the comparisons shall be open to the public",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Logan_County_Clerk_Letter.md",
+  "quote": "after the proclamation of results, the election authority must obtain a court order to uns",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Macon_County_Clerk_Letter.md",
+  "quote": "public records",
+  "found_in": [
+   "5 ILCS 140/1",
+   "5 ILCS 140/2",
+   "5 ILCS 140/3"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Macon_County_Clerk_Letter.md",
+  "quote": "electronic data processing records, electronic communications, recorded information and al",
+  "found_in": [
+   "5 ILCS 140/2"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Macon_County_Clerk_Letter.md",
+  "quote": "shall constitute the official return of each precinct",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15",
+   "10 ILCS 5/24C-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Macon_County_Clerk_Letter.md",
+  "quote": "the comparisons shall be open to the public",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Macon_County_Clerk_Letter.md",
+  "quote": "after the proclamation of results, the election authority must obtain a court order to uns",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Macoupin_County_Clerk_Letter.md",
+  "quote": "public records",
+  "found_in": [
+   "5 ILCS 140/1",
+   "5 ILCS 140/2",
+   "5 ILCS 140/3"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Macoupin_County_Clerk_Letter.md",
+  "quote": "electronic data processing records, electronic communications, recorded information and al",
+  "found_in": [
+   "5 ILCS 140/2"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Macoupin_County_Clerk_Letter.md",
+  "quote": "shall constitute the official return of each precinct",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15",
+   "10 ILCS 5/24C-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Macoupin_County_Clerk_Letter.md",
+  "quote": "the comparisons shall be open to the public",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Macoupin_County_Clerk_Letter.md",
+  "quote": "after the proclamation of results, the election authority must obtain a court order to uns",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Madison_County_Clerk_Letter.md",
+  "quote": "public records",
+  "found_in": [
+   "5 ILCS 140/1",
+   "5 ILCS 140/2",
+   "5 ILCS 140/3"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Madison_County_Clerk_Letter.md",
+  "quote": "electronic data processing records, electronic communications, recorded information and al",
+  "found_in": [
+   "5 ILCS 140/2"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Madison_County_Clerk_Letter.md",
+  "quote": "shall constitute the official return of each precinct",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15",
+   "10 ILCS 5/24C-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Madison_County_Clerk_Letter.md",
+  "quote": "the comparisons shall be open to the public",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Madison_County_Clerk_Letter.md",
+  "quote": "after the proclamation of results, the election authority must obtain a court order to uns",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Marion_County_Clerk_Letter.md",
+  "quote": "public records",
+  "found_in": [
+   "5 ILCS 140/1",
+   "5 ILCS 140/2",
+   "5 ILCS 140/3"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Marion_County_Clerk_Letter.md",
+  "quote": "electronic data processing records, electronic communications, recorded information and al",
+  "found_in": [
+   "5 ILCS 140/2"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Marion_County_Clerk_Letter.md",
+  "quote": "shall constitute the official return of each precinct",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15",
+   "10 ILCS 5/24C-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Marion_County_Clerk_Letter.md",
+  "quote": "the comparisons shall be open to the public",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Marion_County_Clerk_Letter.md",
+  "quote": "after the proclamation of results, the election authority must obtain a court order to uns",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Marshall_County_Clerk_Letter.md",
+  "quote": "public records",
+  "found_in": [
+   "5 ILCS 140/1",
+   "5 ILCS 140/2",
+   "5 ILCS 140/3"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Marshall_County_Clerk_Letter.md",
+  "quote": "electronic data processing records, electronic communications, recorded information and al",
+  "found_in": [
+   "5 ILCS 140/2"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Marshall_County_Clerk_Letter.md",
+  "quote": "shall constitute the official return of each precinct",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15",
+   "10 ILCS 5/24C-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Marshall_County_Clerk_Letter.md",
+  "quote": "the comparisons shall be open to the public",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Marshall_County_Clerk_Letter.md",
+  "quote": "after the proclamation of results, the election authority must obtain a court order to uns",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Mason_County_Clerk_Letter.md",
+  "quote": "public records",
+  "found_in": [
+   "5 ILCS 140/1",
+   "5 ILCS 140/2",
+   "5 ILCS 140/3"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Mason_County_Clerk_Letter.md",
+  "quote": "electronic data processing records, electronic communications, recorded information and al",
+  "found_in": [
+   "5 ILCS 140/2"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Mason_County_Clerk_Letter.md",
+  "quote": "shall constitute the official return of each precinct",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15",
+   "10 ILCS 5/24C-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Mason_County_Clerk_Letter.md",
+  "quote": "the comparisons shall be open to the public",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Mason_County_Clerk_Letter.md",
+  "quote": "after the proclamation of results, the election authority must obtain a court order to uns",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Massac_County_Clerk_Letter.md",
+  "quote": "public records",
+  "found_in": [
+   "5 ILCS 140/1",
+   "5 ILCS 140/2",
+   "5 ILCS 140/3"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Massac_County_Clerk_Letter.md",
+  "quote": "electronic data processing records, electronic communications, recorded information and al",
+  "found_in": [
+   "5 ILCS 140/2"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Massac_County_Clerk_Letter.md",
+  "quote": "shall constitute the official return of each precinct",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15",
+   "10 ILCS 5/24C-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Massac_County_Clerk_Letter.md",
+  "quote": "the comparisons shall be open to the public",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Massac_County_Clerk_Letter.md",
+  "quote": "after the proclamation of results, the election authority must obtain a court order to uns",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "McDonough_County_Clerk_Letter.md",
+  "quote": "public records",
+  "found_in": [
+   "5 ILCS 140/1",
+   "5 ILCS 140/2",
+   "5 ILCS 140/3"
+  ],
+  "ok": true
+ },
+ {
+  "file": "McDonough_County_Clerk_Letter.md",
+  "quote": "electronic data processing records, electronic communications, recorded information and al",
+  "found_in": [
+   "5 ILCS 140/2"
+  ],
+  "ok": true
+ },
+ {
+  "file": "McDonough_County_Clerk_Letter.md",
+  "quote": "shall constitute the official return of each precinct",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15",
+   "10 ILCS 5/24C-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "McDonough_County_Clerk_Letter.md",
+  "quote": "the comparisons shall be open to the public",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "McDonough_County_Clerk_Letter.md",
+  "quote": "after the proclamation of results, the election authority must obtain a court order to uns",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "McHenry_County_Clerk_Letter.md",
+  "quote": "public records",
+  "found_in": [
+   "5 ILCS 140/1",
+   "5 ILCS 140/2",
+   "5 ILCS 140/3"
+  ],
+  "ok": true
+ },
+ {
+  "file": "McHenry_County_Clerk_Letter.md",
+  "quote": "electronic data processing records, electronic communications, recorded information and al",
+  "found_in": [
+   "5 ILCS 140/2"
+  ],
+  "ok": true
+ },
+ {
+  "file": "McHenry_County_Clerk_Letter.md",
+  "quote": "shall constitute the official return of each precinct",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15",
+   "10 ILCS 5/24C-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "McHenry_County_Clerk_Letter.md",
+  "quote": "the comparisons shall be open to the public",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "McHenry_County_Clerk_Letter.md",
+  "quote": "after the proclamation of results, the election authority must obtain a court order to uns",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "McLean_County_Clerk_Letter.md",
+  "quote": "public records",
+  "found_in": [
+   "5 ILCS 140/1",
+   "5 ILCS 140/2",
+   "5 ILCS 140/3"
+  ],
+  "ok": true
+ },
+ {
+  "file": "McLean_County_Clerk_Letter.md",
+  "quote": "electronic data processing records, electronic communications, recorded information and al",
+  "found_in": [
+   "5 ILCS 140/2"
+  ],
+  "ok": true
+ },
+ {
+  "file": "McLean_County_Clerk_Letter.md",
+  "quote": "shall constitute the official return of each precinct",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15",
+   "10 ILCS 5/24C-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "McLean_County_Clerk_Letter.md",
+  "quote": "the comparisons shall be open to the public",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "McLean_County_Clerk_Letter.md",
+  "quote": "after the proclamation of results, the election authority must obtain a court order to uns",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Menard_County_Clerk_Letter.md",
+  "quote": "public records",
+  "found_in": [
+   "5 ILCS 140/1",
+   "5 ILCS 140/2",
+   "5 ILCS 140/3"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Menard_County_Clerk_Letter.md",
+  "quote": "electronic data processing records, electronic communications, recorded information and al",
+  "found_in": [
+   "5 ILCS 140/2"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Menard_County_Clerk_Letter.md",
+  "quote": "shall constitute the official return of each precinct",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15",
+   "10 ILCS 5/24C-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Menard_County_Clerk_Letter.md",
+  "quote": "the comparisons shall be open to the public",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Menard_County_Clerk_Letter.md",
+  "quote": "after the proclamation of results, the election authority must obtain a court order to uns",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Mercer_County_Clerk_Letter.md",
+  "quote": "public records",
+  "found_in": [
+   "5 ILCS 140/1",
+   "5 ILCS 140/2",
+   "5 ILCS 140/3"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Mercer_County_Clerk_Letter.md",
+  "quote": "electronic data processing records, electronic communications, recorded information and al",
+  "found_in": [
+   "5 ILCS 140/2"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Mercer_County_Clerk_Letter.md",
+  "quote": "shall constitute the official return of each precinct",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15",
+   "10 ILCS 5/24C-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Mercer_County_Clerk_Letter.md",
+  "quote": "the comparisons shall be open to the public",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Mercer_County_Clerk_Letter.md",
+  "quote": "after the proclamation of results, the election authority must obtain a court order to uns",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Monroe_County_Clerk_Letter.md",
+  "quote": "public records",
+  "found_in": [
+   "5 ILCS 140/1",
+   "5 ILCS 140/2",
+   "5 ILCS 140/3"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Monroe_County_Clerk_Letter.md",
+  "quote": "electronic data processing records, electronic communications, recorded information and al",
+  "found_in": [
+   "5 ILCS 140/2"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Monroe_County_Clerk_Letter.md",
+  "quote": "shall constitute the official return of each precinct",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15",
+   "10 ILCS 5/24C-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Monroe_County_Clerk_Letter.md",
+  "quote": "the comparisons shall be open to the public",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Monroe_County_Clerk_Letter.md",
+  "quote": "after the proclamation of results, the election authority must obtain a court order to uns",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Montgomery_County_Clerk_Letter.md",
+  "quote": "public records",
+  "found_in": [
+   "5 ILCS 140/1",
+   "5 ILCS 140/2",
+   "5 ILCS 140/3"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Montgomery_County_Clerk_Letter.md",
+  "quote": "electronic data processing records, electronic communications, recorded information and al",
+  "found_in": [
+   "5 ILCS 140/2"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Montgomery_County_Clerk_Letter.md",
+  "quote": "shall constitute the official return of each precinct",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15",
+   "10 ILCS 5/24C-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Montgomery_County_Clerk_Letter.md",
+  "quote": "the comparisons shall be open to the public",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Montgomery_County_Clerk_Letter.md",
+  "quote": "after the proclamation of results, the election authority must obtain a court order to uns",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Morgan_County_Clerk_Letter.md",
+  "quote": "public records",
+  "found_in": [
+   "5 ILCS 140/1",
+   "5 ILCS 140/2",
+   "5 ILCS 140/3"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Morgan_County_Clerk_Letter.md",
+  "quote": "electronic data processing records, electronic communications, recorded information and al",
+  "found_in": [
+   "5 ILCS 140/2"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Morgan_County_Clerk_Letter.md",
+  "quote": "shall constitute the official return of each precinct",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15",
+   "10 ILCS 5/24C-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Morgan_County_Clerk_Letter.md",
+  "quote": "the comparisons shall be open to the public",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Morgan_County_Clerk_Letter.md",
+  "quote": "after the proclamation of results, the election authority must obtain a court order to uns",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Moultrie_County_Clerk_Letter.md",
+  "quote": "public records",
+  "found_in": [
+   "5 ILCS 140/1",
+   "5 ILCS 140/2",
+   "5 ILCS 140/3"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Moultrie_County_Clerk_Letter.md",
+  "quote": "electronic data processing records, electronic communications, recorded information and al",
+  "found_in": [
+   "5 ILCS 140/2"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Moultrie_County_Clerk_Letter.md",
+  "quote": "shall constitute the official return of each precinct",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15",
+   "10 ILCS 5/24C-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Moultrie_County_Clerk_Letter.md",
+  "quote": "the comparisons shall be open to the public",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Moultrie_County_Clerk_Letter.md",
+  "quote": "after the proclamation of results, the election authority must obtain a court order to uns",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Ogle_County_Clerk_Letter.md",
+  "quote": "public records",
+  "found_in": [
+   "5 ILCS 140/1",
+   "5 ILCS 140/2",
+   "5 ILCS 140/3"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Ogle_County_Clerk_Letter.md",
+  "quote": "electronic data processing records, electronic communications, recorded information and al",
+  "found_in": [
+   "5 ILCS 140/2"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Ogle_County_Clerk_Letter.md",
+  "quote": "shall constitute the official return of each precinct",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15",
+   "10 ILCS 5/24C-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Ogle_County_Clerk_Letter.md",
+  "quote": "the comparisons shall be open to the public",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Ogle_County_Clerk_Letter.md",
+  "quote": "after the proclamation of results, the election authority must obtain a court order to uns",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Peoria_County_Election_Commission_Letter.md",
+  "quote": "public records",
+  "found_in": [
+   "5 ILCS 140/1",
+   "5 ILCS 140/2",
+   "5 ILCS 140/3"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Peoria_County_Election_Commission_Letter.md",
+  "quote": "electronic data processing records, electronic communications, recorded information and al",
+  "found_in": [
+   "5 ILCS 140/2"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Peoria_County_Election_Commission_Letter.md",
+  "quote": "shall constitute the official return of each precinct",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15",
+   "10 ILCS 5/24C-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Peoria_County_Election_Commission_Letter.md",
+  "quote": "the comparisons shall be open to the public",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Peoria_County_Election_Commission_Letter.md",
+  "quote": "after the proclamation of results, the election authority must obtain a court order to uns",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Perry_County_Clerk_Letter.md",
+  "quote": "public records",
+  "found_in": [
+   "5 ILCS 140/1",
+   "5 ILCS 140/2",
+   "5 ILCS 140/3"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Perry_County_Clerk_Letter.md",
+  "quote": "electronic data processing records, electronic communications, recorded information and al",
+  "found_in": [
+   "5 ILCS 140/2"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Perry_County_Clerk_Letter.md",
+  "quote": "shall constitute the official return of each precinct",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15",
+   "10 ILCS 5/24C-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Perry_County_Clerk_Letter.md",
+  "quote": "the comparisons shall be open to the public",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Perry_County_Clerk_Letter.md",
+  "quote": "after the proclamation of results, the election authority must obtain a court order to uns",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Piatt_County_Clerk_Letter.md",
+  "quote": "public records",
+  "found_in": [
+   "5 ILCS 140/1",
+   "5 ILCS 140/2",
+   "5 ILCS 140/3"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Piatt_County_Clerk_Letter.md",
+  "quote": "electronic data processing records, electronic communications, recorded information and al",
+  "found_in": [
+   "5 ILCS 140/2"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Piatt_County_Clerk_Letter.md",
+  "quote": "shall constitute the official return of each precinct",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15",
+   "10 ILCS 5/24C-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Piatt_County_Clerk_Letter.md",
+  "quote": "the comparisons shall be open to the public",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Piatt_County_Clerk_Letter.md",
+  "quote": "after the proclamation of results, the election authority must obtain a court order to uns",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Pike_County_Clerk_Letter.md",
+  "quote": "public records",
+  "found_in": [
+   "5 ILCS 140/1",
+   "5 ILCS 140/2",
+   "5 ILCS 140/3"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Pike_County_Clerk_Letter.md",
+  "quote": "electronic data processing records, electronic communications, recorded information and al",
+  "found_in": [
+   "5 ILCS 140/2"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Pike_County_Clerk_Letter.md",
+  "quote": "shall constitute the official return of each precinct",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15",
+   "10 ILCS 5/24C-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Pike_County_Clerk_Letter.md",
+  "quote": "the comparisons shall be open to the public",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Pike_County_Clerk_Letter.md",
+  "quote": "after the proclamation of results, the election authority must obtain a court order to uns",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Pope_County_Clerk_Letter.md",
+  "quote": "public records",
+  "found_in": [
+   "5 ILCS 140/1",
+   "5 ILCS 140/2",
+   "5 ILCS 140/3"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Pope_County_Clerk_Letter.md",
+  "quote": "electronic data processing records, electronic communications, recorded information and al",
+  "found_in": [
+   "5 ILCS 140/2"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Pope_County_Clerk_Letter.md",
+  "quote": "shall constitute the official return of each precinct",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15",
+   "10 ILCS 5/24C-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Pope_County_Clerk_Letter.md",
+  "quote": "the comparisons shall be open to the public",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Pope_County_Clerk_Letter.md",
+  "quote": "after the proclamation of results, the election authority must obtain a court order to uns",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Pulaski_County_Clerk_Letter.md",
+  "quote": "public records",
+  "found_in": [
+   "5 ILCS 140/1",
+   "5 ILCS 140/2",
+   "5 ILCS 140/3"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Pulaski_County_Clerk_Letter.md",
+  "quote": "electronic data processing records, electronic communications, recorded information and al",
+  "found_in": [
+   "5 ILCS 140/2"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Pulaski_County_Clerk_Letter.md",
+  "quote": "shall constitute the official return of each precinct",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15",
+   "10 ILCS 5/24C-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Pulaski_County_Clerk_Letter.md",
+  "quote": "the comparisons shall be open to the public",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Pulaski_County_Clerk_Letter.md",
+  "quote": "after the proclamation of results, the election authority must obtain a court order to uns",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Putnam_County_Clerk_Letter.md",
+  "quote": "public records",
+  "found_in": [
+   "5 ILCS 140/1",
+   "5 ILCS 140/2",
+   "5 ILCS 140/3"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Putnam_County_Clerk_Letter.md",
+  "quote": "electronic data processing records, electronic communications, recorded information and al",
+  "found_in": [
+   "5 ILCS 140/2"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Putnam_County_Clerk_Letter.md",
+  "quote": "shall constitute the official return of each precinct",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15",
+   "10 ILCS 5/24C-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Putnam_County_Clerk_Letter.md",
+  "quote": "the comparisons shall be open to the public",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Putnam_County_Clerk_Letter.md",
+  "quote": "after the proclamation of results, the election authority must obtain a court order to uns",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Randolph_County_Clerk_Letter.md",
+  "quote": "public records",
+  "found_in": [
+   "5 ILCS 140/1",
+   "5 ILCS 140/2",
+   "5 ILCS 140/3"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Randolph_County_Clerk_Letter.md",
+  "quote": "electronic data processing records, electronic communications, recorded information and al",
+  "found_in": [
+   "5 ILCS 140/2"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Randolph_County_Clerk_Letter.md",
+  "quote": "shall constitute the official return of each precinct",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15",
+   "10 ILCS 5/24C-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Randolph_County_Clerk_Letter.md",
+  "quote": "the comparisons shall be open to the public",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Randolph_County_Clerk_Letter.md",
+  "quote": "after the proclamation of results, the election authority must obtain a court order to uns",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Richland_County_Clerk_Letter.md",
+  "quote": "public records",
+  "found_in": [
+   "5 ILCS 140/1",
+   "5 ILCS 140/2",
+   "5 ILCS 140/3"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Richland_County_Clerk_Letter.md",
+  "quote": "electronic data processing records, electronic communications, recorded information and al",
+  "found_in": [
+   "5 ILCS 140/2"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Richland_County_Clerk_Letter.md",
+  "quote": "shall constitute the official return of each precinct",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15",
+   "10 ILCS 5/24C-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Richland_County_Clerk_Letter.md",
+  "quote": "the comparisons shall be open to the public",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Richland_County_Clerk_Letter.md",
+  "quote": "after the proclamation of results, the election authority must obtain a court order to uns",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Rock_Island_County_Clerk_Letter.md",
+  "quote": "public records",
+  "found_in": [
+   "5 ILCS 140/1",
+   "5 ILCS 140/2",
+   "5 ILCS 140/3"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Rock_Island_County_Clerk_Letter.md",
+  "quote": "electronic data processing records, electronic communications, recorded information and al",
+  "found_in": [
+   "5 ILCS 140/2"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Rock_Island_County_Clerk_Letter.md",
+  "quote": "shall constitute the official return of each precinct",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15",
+   "10 ILCS 5/24C-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Rock_Island_County_Clerk_Letter.md",
+  "quote": "the comparisons shall be open to the public",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Rock_Island_County_Clerk_Letter.md",
+  "quote": "after the proclamation of results, the election authority must obtain a court order to uns",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Saline_County_Clerk_Letter.md",
+  "quote": "public records",
+  "found_in": [
+   "5 ILCS 140/1",
+   "5 ILCS 140/2",
+   "5 ILCS 140/3"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Saline_County_Clerk_Letter.md",
+  "quote": "electronic data processing records, electronic communications, recorded information and al",
+  "found_in": [
+   "5 ILCS 140/2"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Saline_County_Clerk_Letter.md",
+  "quote": "shall constitute the official return of each precinct",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15",
+   "10 ILCS 5/24C-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Saline_County_Clerk_Letter.md",
+  "quote": "the comparisons shall be open to the public",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Saline_County_Clerk_Letter.md",
+  "quote": "after the proclamation of results, the election authority must obtain a court order to uns",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Sangamon_County_Clerk_Letter.md",
+  "quote": "public records",
+  "found_in": [
+   "5 ILCS 140/1",
+   "5 ILCS 140/2",
+   "5 ILCS 140/3"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Sangamon_County_Clerk_Letter.md",
+  "quote": "electronic data processing records, electronic communications, recorded information and al",
+  "found_in": [
+   "5 ILCS 140/2"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Sangamon_County_Clerk_Letter.md",
+  "quote": "shall constitute the official return of each precinct",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15",
+   "10 ILCS 5/24C-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Sangamon_County_Clerk_Letter.md",
+  "quote": "the comparisons shall be open to the public",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Sangamon_County_Clerk_Letter.md",
+  "quote": "after the proclamation of results, the election authority must obtain a court order to uns",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Schuyler_County_Clerk_Letter.md",
+  "quote": "public records",
+  "found_in": [
+   "5 ILCS 140/1",
+   "5 ILCS 140/2",
+   "5 ILCS 140/3"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Schuyler_County_Clerk_Letter.md",
+  "quote": "electronic data processing records, electronic communications, recorded information and al",
+  "found_in": [
+   "5 ILCS 140/2"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Schuyler_County_Clerk_Letter.md",
+  "quote": "shall constitute the official return of each precinct",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15",
+   "10 ILCS 5/24C-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Schuyler_County_Clerk_Letter.md",
+  "quote": "the comparisons shall be open to the public",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Schuyler_County_Clerk_Letter.md",
+  "quote": "after the proclamation of results, the election authority must obtain a court order to uns",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Scott_County_Clerk_Letter.md",
+  "quote": "public records",
+  "found_in": [
+   "5 ILCS 140/1",
+   "5 ILCS 140/2",
+   "5 ILCS 140/3"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Scott_County_Clerk_Letter.md",
+  "quote": "electronic data processing records, electronic communications, recorded information and al",
+  "found_in": [
+   "5 ILCS 140/2"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Scott_County_Clerk_Letter.md",
+  "quote": "shall constitute the official return of each precinct",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15",
+   "10 ILCS 5/24C-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Scott_County_Clerk_Letter.md",
+  "quote": "the comparisons shall be open to the public",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Scott_County_Clerk_Letter.md",
+  "quote": "after the proclamation of results, the election authority must obtain a court order to uns",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Shelby_County_Clerk_Letter.md",
+  "quote": "public records",
+  "found_in": [
+   "5 ILCS 140/1",
+   "5 ILCS 140/2",
+   "5 ILCS 140/3"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Shelby_County_Clerk_Letter.md",
+  "quote": "electronic data processing records, electronic communications, recorded information and al",
+  "found_in": [
+   "5 ILCS 140/2"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Shelby_County_Clerk_Letter.md",
+  "quote": "shall constitute the official return of each precinct",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15",
+   "10 ILCS 5/24C-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Shelby_County_Clerk_Letter.md",
+  "quote": "the comparisons shall be open to the public",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Shelby_County_Clerk_Letter.md",
+  "quote": "after the proclamation of results, the election authority must obtain a court order to uns",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "St_Clair_County_Clerk_Letter.md",
+  "quote": "public records",
+  "found_in": [
+   "5 ILCS 140/1",
+   "5 ILCS 140/2",
+   "5 ILCS 140/3"
+  ],
+  "ok": true
+ },
+ {
+  "file": "St_Clair_County_Clerk_Letter.md",
+  "quote": "electronic data processing records, electronic communications, recorded information and al",
+  "found_in": [
+   "5 ILCS 140/2"
+  ],
+  "ok": true
+ },
+ {
+  "file": "St_Clair_County_Clerk_Letter.md",
+  "quote": "shall constitute the official return of each precinct",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15",
+   "10 ILCS 5/24C-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "St_Clair_County_Clerk_Letter.md",
+  "quote": "the comparisons shall be open to the public",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "St_Clair_County_Clerk_Letter.md",
+  "quote": "after the proclamation of results, the election authority must obtain a court order to uns",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Stark_County_Clerk_Letter.md",
+  "quote": "public records",
+  "found_in": [
+   "5 ILCS 140/1",
+   "5 ILCS 140/2",
+   "5 ILCS 140/3"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Stark_County_Clerk_Letter.md",
+  "quote": "electronic data processing records, electronic communications, recorded information and al",
+  "found_in": [
+   "5 ILCS 140/2"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Stark_County_Clerk_Letter.md",
+  "quote": "shall constitute the official return of each precinct",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15",
+   "10 ILCS 5/24C-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Stark_County_Clerk_Letter.md",
+  "quote": "the comparisons shall be open to the public",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Stark_County_Clerk_Letter.md",
+  "quote": "after the proclamation of results, the election authority must obtain a court order to uns",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Stephenson_County_Clerk_Letter.md",
+  "quote": "public records",
+  "found_in": [
+   "5 ILCS 140/1",
+   "5 ILCS 140/2",
+   "5 ILCS 140/3"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Stephenson_County_Clerk_Letter.md",
+  "quote": "electronic data processing records, electronic communications, recorded information and al",
+  "found_in": [
+   "5 ILCS 140/2"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Stephenson_County_Clerk_Letter.md",
+  "quote": "shall constitute the official return of each precinct",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15",
+   "10 ILCS 5/24C-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Stephenson_County_Clerk_Letter.md",
+  "quote": "the comparisons shall be open to the public",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Stephenson_County_Clerk_Letter.md",
+  "quote": "after the proclamation of results, the election authority must obtain a court order to uns",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Tazewell_County_Clerk_Letter.md",
+  "quote": "public records",
+  "found_in": [
+   "5 ILCS 140/1",
+   "5 ILCS 140/2",
+   "5 ILCS 140/3"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Tazewell_County_Clerk_Letter.md",
+  "quote": "electronic data processing records, electronic communications, recorded information and al",
+  "found_in": [
+   "5 ILCS 140/2"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Tazewell_County_Clerk_Letter.md",
+  "quote": "shall constitute the official return of each precinct",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15",
+   "10 ILCS 5/24C-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Tazewell_County_Clerk_Letter.md",
+  "quote": "the comparisons shall be open to the public",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Tazewell_County_Clerk_Letter.md",
+  "quote": "after the proclamation of results, the election authority must obtain a court order to uns",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Union_County_Clerk_Letter.md",
+  "quote": "public records",
+  "found_in": [
+   "5 ILCS 140/1",
+   "5 ILCS 140/2",
+   "5 ILCS 140/3"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Union_County_Clerk_Letter.md",
+  "quote": "electronic data processing records, electronic communications, recorded information and al",
+  "found_in": [
+   "5 ILCS 140/2"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Union_County_Clerk_Letter.md",
+  "quote": "shall constitute the official return of each precinct",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15",
+   "10 ILCS 5/24C-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Union_County_Clerk_Letter.md",
+  "quote": "the comparisons shall be open to the public",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Union_County_Clerk_Letter.md",
+  "quote": "after the proclamation of results, the election authority must obtain a court order to uns",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Vermilion_County_Clerk_Letter.md",
+  "quote": "public records",
+  "found_in": [
+   "5 ILCS 140/1",
+   "5 ILCS 140/2",
+   "5 ILCS 140/3"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Vermilion_County_Clerk_Letter.md",
+  "quote": "electronic data processing records, electronic communications, recorded information and al",
+  "found_in": [
+   "5 ILCS 140/2"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Vermilion_County_Clerk_Letter.md",
+  "quote": "shall constitute the official return of each precinct",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15",
+   "10 ILCS 5/24C-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Vermilion_County_Clerk_Letter.md",
+  "quote": "the comparisons shall be open to the public",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Vermilion_County_Clerk_Letter.md",
+  "quote": "after the proclamation of results, the election authority must obtain a court order to uns",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Wabash_County_Clerk_Letter.md",
+  "quote": "public records",
+  "found_in": [
+   "5 ILCS 140/1",
+   "5 ILCS 140/2",
+   "5 ILCS 140/3"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Wabash_County_Clerk_Letter.md",
+  "quote": "electronic data processing records, electronic communications, recorded information and al",
+  "found_in": [
+   "5 ILCS 140/2"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Wabash_County_Clerk_Letter.md",
+  "quote": "shall constitute the official return of each precinct",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15",
+   "10 ILCS 5/24C-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Wabash_County_Clerk_Letter.md",
+  "quote": "the comparisons shall be open to the public",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Wabash_County_Clerk_Letter.md",
+  "quote": "after the proclamation of results, the election authority must obtain a court order to uns",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Warren_County_Clerk_Letter.md",
+  "quote": "public records",
+  "found_in": [
+   "5 ILCS 140/1",
+   "5 ILCS 140/2",
+   "5 ILCS 140/3"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Warren_County_Clerk_Letter.md",
+  "quote": "electronic data processing records, electronic communications, recorded information and al",
+  "found_in": [
+   "5 ILCS 140/2"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Warren_County_Clerk_Letter.md",
+  "quote": "shall constitute the official return of each precinct",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15",
+   "10 ILCS 5/24C-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Warren_County_Clerk_Letter.md",
+  "quote": "the comparisons shall be open to the public",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Warren_County_Clerk_Letter.md",
+  "quote": "after the proclamation of results, the election authority must obtain a court order to uns",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Washington_County_Clerk_Letter.md",
+  "quote": "public records",
+  "found_in": [
+   "5 ILCS 140/1",
+   "5 ILCS 140/2",
+   "5 ILCS 140/3"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Washington_County_Clerk_Letter.md",
+  "quote": "electronic data processing records, electronic communications, recorded information and al",
+  "found_in": [
+   "5 ILCS 140/2"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Washington_County_Clerk_Letter.md",
+  "quote": "shall constitute the official return of each precinct",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15",
+   "10 ILCS 5/24C-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Washington_County_Clerk_Letter.md",
+  "quote": "the comparisons shall be open to the public",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Washington_County_Clerk_Letter.md",
+  "quote": "after the proclamation of results, the election authority must obtain a court order to uns",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Wayne_County_Clerk_Letter.md",
+  "quote": "public records",
+  "found_in": [
+   "5 ILCS 140/1",
+   "5 ILCS 140/2",
+   "5 ILCS 140/3"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Wayne_County_Clerk_Letter.md",
+  "quote": "electronic data processing records, electronic communications, recorded information and al",
+  "found_in": [
+   "5 ILCS 140/2"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Wayne_County_Clerk_Letter.md",
+  "quote": "shall constitute the official return of each precinct",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15",
+   "10 ILCS 5/24C-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Wayne_County_Clerk_Letter.md",
+  "quote": "the comparisons shall be open to the public",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Wayne_County_Clerk_Letter.md",
+  "quote": "after the proclamation of results, the election authority must obtain a court order to uns",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "White_County_Clerk_Letter.md",
+  "quote": "public records",
+  "found_in": [
+   "5 ILCS 140/1",
+   "5 ILCS 140/2",
+   "5 ILCS 140/3"
+  ],
+  "ok": true
+ },
+ {
+  "file": "White_County_Clerk_Letter.md",
+  "quote": "electronic data processing records, electronic communications, recorded information and al",
+  "found_in": [
+   "5 ILCS 140/2"
+  ],
+  "ok": true
+ },
+ {
+  "file": "White_County_Clerk_Letter.md",
+  "quote": "shall constitute the official return of each precinct",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15",
+   "10 ILCS 5/24C-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "White_County_Clerk_Letter.md",
+  "quote": "the comparisons shall be open to the public",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "White_County_Clerk_Letter.md",
+  "quote": "after the proclamation of results, the election authority must obtain a court order to uns",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Whiteside_County_Clerk_Letter.md",
+  "quote": "public records",
+  "found_in": [
+   "5 ILCS 140/1",
+   "5 ILCS 140/2",
+   "5 ILCS 140/3"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Whiteside_County_Clerk_Letter.md",
+  "quote": "electronic data processing records, electronic communications, recorded information and al",
+  "found_in": [
+   "5 ILCS 140/2"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Whiteside_County_Clerk_Letter.md",
+  "quote": "shall constitute the official return of each precinct",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15",
+   "10 ILCS 5/24C-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Whiteside_County_Clerk_Letter.md",
+  "quote": "the comparisons shall be open to the public",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Whiteside_County_Clerk_Letter.md",
+  "quote": "after the proclamation of results, the election authority must obtain a court order to uns",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Will_County_Clerk_Letter.md",
+  "quote": "public records",
+  "found_in": [
+   "5 ILCS 140/1",
+   "5 ILCS 140/2",
+   "5 ILCS 140/3"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Will_County_Clerk_Letter.md",
+  "quote": "electronic data processing records, electronic communications, recorded information and al",
+  "found_in": [
+   "5 ILCS 140/2"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Will_County_Clerk_Letter.md",
+  "quote": "shall constitute the official return of each precinct",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15",
+   "10 ILCS 5/24C-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Will_County_Clerk_Letter.md",
+  "quote": "the comparisons shall be open to the public",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Will_County_Clerk_Letter.md",
+  "quote": "after the proclamation of results, the election authority must obtain a court order to uns",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Williamson_County_Clerk_Letter.md",
+  "quote": "public records",
+  "found_in": [
+   "5 ILCS 140/1",
+   "5 ILCS 140/2",
+   "5 ILCS 140/3"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Williamson_County_Clerk_Letter.md",
+  "quote": "electronic data processing records, electronic communications, recorded information and al",
+  "found_in": [
+   "5 ILCS 140/2"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Williamson_County_Clerk_Letter.md",
+  "quote": "shall constitute the official return of each precinct",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15",
+   "10 ILCS 5/24C-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Williamson_County_Clerk_Letter.md",
+  "quote": "the comparisons shall be open to the public",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Williamson_County_Clerk_Letter.md",
+  "quote": "after the proclamation of results, the election authority must obtain a court order to uns",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Winnebago_County_Clerk_Letter.md",
+  "quote": "public records",
+  "found_in": [
+   "5 ILCS 140/1",
+   "5 ILCS 140/2",
+   "5 ILCS 140/3"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Winnebago_County_Clerk_Letter.md",
+  "quote": "electronic data processing records, electronic communications, recorded information and al",
+  "found_in": [
+   "5 ILCS 140/2"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Winnebago_County_Clerk_Letter.md",
+  "quote": "shall constitute the official return of each precinct",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15",
+   "10 ILCS 5/24C-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Winnebago_County_Clerk_Letter.md",
+  "quote": "the comparisons shall be open to the public",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Winnebago_County_Clerk_Letter.md",
+  "quote": "after the proclamation of results, the election authority must obtain a court order to uns",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Woodford_County_Clerk_Letter.md",
+  "quote": "public records",
+  "found_in": [
+   "5 ILCS 140/1",
+   "5 ILCS 140/2",
+   "5 ILCS 140/3"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Woodford_County_Clerk_Letter.md",
+  "quote": "electronic data processing records, electronic communications, recorded information and al",
+  "found_in": [
+   "5 ILCS 140/2"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Woodford_County_Clerk_Letter.md",
+  "quote": "shall constitute the official return of each precinct",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15",
+   "10 ILCS 5/24C-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Woodford_County_Clerk_Letter.md",
+  "quote": "the comparisons shall be open to the public",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ },
+ {
+  "file": "Woodford_County_Clerk_Letter.md",
+  "quote": "after the proclamation of results, the election authority must obtain a court order to uns",
+  "found_in": [
+   "10 ILCS 5/24A-15",
+   "10 ILCS 5/24B-15"
+  ],
+  "ok": true
+ }
+]

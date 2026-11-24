@@ -9,6 +9,7 @@
 5. [Graphs](Graphs)
 6. [PDF report](https://github.com/mbenson8989/Illinois-Election-Analysis/blob/main/report/Illinois_Reverse_Factoring_Report_UNOFFICIAL_2026.pdf)
 7. [Locked Illinois Formula](Locked-Illinois-Formula)
+8. [Resources](Resources): AG letter, 108 election-authority letters, voting equipment, graphics
 
 \*2026 = UNOFFICIAL (pre-Dec 4, 2026 canvass)
 

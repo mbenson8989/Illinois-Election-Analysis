@@ -1,0 +1,86 @@
+{
+ "ES&S": {
+  "authorities": 45,
+  "counties": 40,
+  "registered": 2365370
+ },
+ "Hart InterCivic": {
+  "authorities": 26,
+  "counties": 26,
+  "registered": 1782883
+ },
+ "Liberty Vote (Dominion)": {
+  "authorities": 2,
+  "counties": 1,
+  "registered": 3163943
+ },
+ "Unisyn": {
+  "authorities": 35,
+  "counties": 35,
+  "registered": 803056
+ },
+ "_total_registered": 8115252,
+ "_n_confirmed": 108,
+ "_marking": {
+  "Hand marked paper ballots and BMDs": 107,
+  "Ballot Marking Devices for all voters": 1
+ },
+ "_poll": {
+  "Paper Poll Book": 73,
+  "Tenex Precinct Central": 16,
+  "KNOWiNK Poll Pad": 10,
+  "ES&S ExpressPoll": 3,
+  "VR Systems EViD": 2,
+  "Platinum Platinum Poll Book": 1,
+  "GBS Valid Voter": 1,
+  "American Elections Inc. Auto Poll Book": 1,
+  "Votec VoteSafe": 1
+ },
+ "_batch_only": [],
+ "_changed": [
+  "Will",
+  "Sangamon",
+  "Rock Island",
+  "Kendall",
+  "LaSalle",
+  "Macon",
+  "Williamson",
+  "Jackson",
+  "Knox",
+  "Macoupin",
+  "Fulton",
+  "McDonough",
+  "Iroquois",
+  "Saline",
+  "Perry",
+  "Hancock",
+  "Warren",
+  "Piatt",
+  "Mercer",
+  "Washington",
+  "Ford",
+  "Clay",
+  "Cass",
+  "Menard",
+  "Marshall",
+  "Wabash",
+  "Schuyler",
+  "Edwards",
+  "Stark",
+  "Alexander",
+  "Scott",
+  "Gallatin",
+  "Pope",
+  "City of Galesburg",
+  "City of East St. Louis"
+ ],
+ "_renamed": [
+  "Cook",
+  "City of Chicago"
+ ],
+ "_multi": [],
+ "_hybrid": [],
+ "_no2022": [],
+ "_mail_missing": 0,
+ "_acc_missing": 0
+}

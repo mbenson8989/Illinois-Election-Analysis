@@ -6,6 +6,8 @@
 
 Method: Morissa Benson's ΔG reverse-factoring method, as built out on the [Nebraska wiki](https://github.com/mbenson8989/Nebraska-Election-Analysis-/wiki). Data: Illinois State Board of Elections (SBOE) official 2022 general and 2022/2026 primary canvasses; 2026\* county election-authority results (UNOFFICIAL (pre-Dec 4, 2026 canvass)).
 
+> **[Resources](Resources): the draft Attorney General letter, letters for all 108 Illinois election authorities, voting equipment for every county, four flip-county graphics and a Guarantee Clause graphic.**
+
 **PDF report:** [Illinois_Reverse_Factoring_Report_UNOFFICIAL_2026.pdf](https://github.com/mbenson8989/Illinois-Election-Analysis/blob/main/report/Illinois_Reverse_Factoring_Report_UNOFFICIAL_2026.pdf)
 
 ## Contents

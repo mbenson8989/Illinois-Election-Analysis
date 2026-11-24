@@ -1,0 +1,107 @@
+{
+ "checks": {
+  "equipment rows": [
+   1,
+   0
+  ],
+  "equipment cells": [
+   540,
+   0
+  ],
+  "vendor summary": [
+   4,
+   0
+  ],
+  "equipment sort": [
+   1,
+   0
+  ],
+  "equipment table rows on page": [
+   108,
+   0
+  ],
+  "letter count": [
+   1,
+   0
+  ],
+  "letter figures": [
+   409,
+   0
+  ],
+  "letter addressee": [
+   108,
+   0
+  ],
+  "letter address zip": [
+   108,
+   0
+  ],
+  "letter files exist": [
+   216,
+   0
+  ],
+  "zip integrity": [
+   7,
+   0
+  ],
+  "zip all count": [
+   1,
+   0
+  ],
+  "regional zips cover all once": [
+   1,
+   0
+  ],
+  "flip qualifier count": [
+   1,
+   0
+  ],
+  "flip page values": [
+   4,
+   0
+  ],
+  "flip graphic files": [
+   4,
+   0
+  ],
+  "repo links resolve to files": [
+   44,
+   0
+  ],
+  "wiki page links": [
+   17,
+   0
+  ],
+  "post <=280": [
+   1,
+   0
+  ],
+  "post matches social file": [
+   1,
+   0
+  ],
+  "stand-in label on page": [
+   1,
+   0
+  ],
+  "unofficial label": [
+   1,
+   0
+  ],
+  "cedar link trailing hyphen": [
+   1,
+   0
+  ],
+  "substack links": [
+   3,
+   0
+  ],
+  "section order": [
+   1,
+   0
+  ]
+ },
+ "total": 1584,
+ "failed": 0,
+ "fails": []
+}

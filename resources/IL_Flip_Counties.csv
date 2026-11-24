@@ -1,0 +1,5 @@
+rank,county,population_2020,standin_dem_primary_share_2022_pct,standin_dem_primary_share_2026_pct,standin_change_pts,dem_share_of_ballots_2022_pct,dem_share_of_ballots_2026_pct_UNOFFICIAL,dem_share_change_pts_UNOFFICIAL,dem_gov_votes_2022,dem_gov_votes_2026_UNOFFICIAL,dem_vote_change_UNOFFICIAL,ballots_cast_2026_UNOFFICIAL,value_votes_beyond_standin_UNOFFICIAL,value_pct_of_2026_ballots_UNOFFICIAL
+1,Mercer,15699,33.319588,27.174669,-6.144918,33.591693,33.758865,0.167172,2297,2142,-155,6345,404,6.4
+2,McDonough,27238,23.375,22.648017,-0.726983,34.137427,37.280423,3.142996,3269,3523,254,9450,397,4.2
+3,Edgar,16866,13.064047,10.144194,-2.919852,21.942215,22.446191,0.503976,1367,1314,-53,5854,317,5.4
+4,Cass,13042,28.246154,24.878523,-3.367631,27.225391,29.316504,2.091113,1098,1231,133,4199,224,5.3

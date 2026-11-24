@@ -1,0 +1,50 @@
+[
+ {
+  "file": "Illinois_Election_Authority_Letters_All_108.zip",
+  "letters": 108,
+  "counties": 102,
+  "mb": 9.6
+ },
+ {
+  "region": "Chicago & Cook County",
+  "file": "Illinois_Election_Authority_Letters_Region_1_Chicago_and_Cook.zip",
+  "letters": 2,
+  "counties": 1,
+  "mb": 0.2
+ },
+ {
+  "region": "Collar Counties",
+  "file": "Illinois_Election_Authority_Letters_Region_2_Collar_Counties.zip",
+  "letters": 5,
+  "counties": 5,
+  "mb": 0.4
+ },
+ {
+  "region": "Northern Illinois",
+  "file": "Illinois_Election_Authority_Letters_Region_3_Northern.zip",
+  "letters": 16,
+  "counties": 15,
+  "mb": 1.4
+ },
+ {
+  "region": "Western Illinois",
+  "file": "Illinois_Election_Authority_Letters_Region_4_Western.zip",
+  "letters": 27,
+  "counties": 26,
+  "mb": 2.4
+ },
+ {
+  "region": "Central Illinois",
+  "file": "Illinois_Election_Authority_Letters_Region_5_Central.zip",
+  "letters": 23,
+  "counties": 21,
+  "mb": 2.1
+ },
+ {
+  "region": "Southern Illinois",
+  "file": "Illinois_Election_Authority_Letters_Region_6_Southern.zip",
+  "letters": 35,
+  "counties": 34,
+  "mb": 3.1
+ }
+]
